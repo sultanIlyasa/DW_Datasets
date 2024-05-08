@@ -1,0 +1,26 @@
+id_produk,nama_produk,harga
+T001,Kartu Perdana SimPATI,10000
+T002,Kartu Perdana AS,15000
+T003,Kartu Perdana Loop,20000
+T004,Paket Data 2GB,25000
+T005,Paket Data 5GB,50000
+T006,Paket Data 10GB,100000
+T007,Paket Data Unlimited,200000
+T008,Paket Nelpon 100 Menit,20000
+T009,Paket Nelpon 300 Menit,30000
+T010,Paket Nelpon 500 Menit,40000
+T011,Paket SMS Unlimited,15000
+T012,Paket Internet Malam,25000
+T013,Paket Streaming Video,75000
+T014,Paket Roaming Asia,100000
+T015,Paket Roaming Eropa,150000
+T016,Paket Data Keluarga (4 Nomor),150000
+T017,Paket Internet Korporat,1000000
+T018,Modem Wifi Portable,300000
+T019,Modem MiFi 4G,500000
+T020,Smartphone Murah,1000000
+T021,Smartphone Flagship,5000000
+T022,Paket Bundling Smartphone + Paket Data,1500000
+T023,Voucher Isi Ulang Pulsa,153065
+T024,Paket Kuota Video Streaming,50000
+T025,Paket Internet Unlimited + TV Kabel,300000

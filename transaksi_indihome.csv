@@ -1,0 +1,401 @@
+id_transaksi,id_pelanggan,id_produk,tanggal_transaksi,jumlah,total_pembayaran,metode_pembayaran
+IH001,2003,IndiHome IP Statis,2023-12-15,3,100000,Dompet Digital
+IH002,2007,IndiHome Telepon Rumah Unlimited,2024-05-02,2,200000,Transfer Bank
+IH003,2004,IndiHome Paket Internet 150 Mbps,2023-10-27,4,1800000,Transfer Bank
+IH004,2007,IndiHome Telepon Rumah Unlimited,2024-02-26,2,300000,Kartu Kredit
+IH005,2001,IndiHome Akses Internet Prioritas,2023-12-27,3,100000,Dompet Digital
+IH006,2002,IndiHome Akses Internet Prioritas,2023-07-20,5,300000,Transfer Bank
+IH007,2003,IndiHome Video Konferensi,2023-08-12,5,500000,Dompet Digital
+IH008,2008,IndiHome Telepon Rumah Unlimited,2024-01-25,2,200000,Dompet Digital
+IH009,2008,IndiHome VPN,2024-02-06,5,200000,Transfer Bank
+IH010,2008,IndiHome Antivirus,2024-04-17,2,150000,Transfer Bank
+IH011,2007,IndiHome Paket TV Básico,2024-04-08,5,450000,Transfer Bank
+IH012,2007,IndiHome Paket TV Básico,2024-03-26,3,750000,Kartu Kredit
+IH013,2002,IndiHome IP Statis,2024-03-21,1,100000,Transfer Bank
+IH014,2008,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-03-23,3,600000,Transfer Bank
+IH015,2003,IndiHome IP Statis,2024-03-25,5,150000,Tunai
+IH016,2004,IndiHome TV Box,2024-04-25,3,500000,Transfer Bank
+IH017,2004,IndiHome IP Statis,2023-09-23,1,50000,Dompet Digital
+IH018,2004,IndiHome Paket Internet 20 Mbps,2024-03-09,5,2000000,Dompet Digital
+IH019,2003,IndiHome Telepon Rumah Unlimited,2023-09-03,2,200000,Dompet Digital
+IH020,2007,IndiHome VPN,2023-07-01,4,300000,Tunai
+IH021,2007,IndiHome Paket TV Premium,2023-12-01,3,750000,Tunai
+IH022,2002,IndiHome Antivirus,2024-02-09,1,250000,Dompet Digital
+IH023,2002,IndiHome Game Online Unlimited,2024-03-01,2,200000,Kartu Kredit
+IH024,2002,IndiHome Paket Internet 150 Mbps,2023-11-29,5,900000,Tunai
+IH025,2007,IndiHome Paket Internet 150 Mbps,2023-05-23,2,900000,Kartu Kredit
+IH026,2001,IndiHome IP Statis,2023-08-27,5,200000,Transfer Bank
+IH027,2001,IndiHome VPN,2023-05-13,2,300000,Transfer Bank
+IH028,2001,IndiHome Domain & Web Hosting,2023-07-19,4,600000,Dompet Digital
+IH029,2001,IndiHome Paket TV Básico,2023-08-21,4,750000,Tunai
+IH030,2009,IndiHome Domain & Web Hosting,2023-07-12,1,600000,Tunai
+IH031,2005,IndiHome TV Box,2023-09-27,2,1000000,Transfer Bank
+IH032,2009,IndiHome Smart Home Solution,2023-07-22,2,1000000,Dompet Digital
+IH033,2005,IndiHome Wi-Fi Mesh,2024-04-20,5,800000,Tunai
+IH034,2002,IndiHome Paket Internet 20 Mbps,2024-02-08,4,800000,Transfer Bank
+IH035,2001,IndiHome Cloud Storage 1TB,2024-01-18,4,100000,Kartu Kredit
+IH036,2007,IndiHome Paket Internet 150 Mbps,2023-12-01,2,1800000,Tunai
+IH037,2006,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-03-30,4,600000,Tunai
+IH038,2004,IndiHome Antivirus,2023-06-09,4,250000,Tunai
+IH039,2008,IndiHome IP Statis,2023-12-06,4,200000,Kartu Kredit
+IH040,2004,IndiHome Video Konferensi,2024-01-11,1,2500000,Kartu Kredit
+IH041,2009,IndiHome Cloud Storage 1TB,2023-07-22,4,300000,Kartu Kredit
+IH042,2007,IndiHome Paket TV Olahraga,2024-03-30,1,1000000,Kartu Kredit
+IH043,2007,IndiHome TV Box,2024-03-25,5,500000,Dompet Digital
+IH044,2006,IndiHome Parental Control,2023-06-05,2,150000,Dompet Digital
+IH045,2009,IndiHome Wireless Router,2023-10-25,5,600000,Tunai
+IH046,2001,IndiHome Telepon Rumah Unlimited,2023-07-01,2,200000,Kartu Kredit
+IH047,2007,IndiHome Access Point,2023-11-20,1,400000,Dompet Digital
+IH048,2001,IndiHome Paket Internet 50 Mbps,2023-11-15,1,500000,Tunai
+IH049,2007,IndiHome Smart Home Solution,2023-12-19,3,2500000,Tunai
+IH050,2007,IndiHome Paket TV Premium,2024-04-21,1,500000,Dompet Digital
+IH051,2007,IndiHome Smart Home Solution,2023-09-25,2,2000000,Transfer Bank
+IH052,2004,IndiHome Akses Internet Prioritas,2023-12-12,5,300000,Kartu Kredit
+IH053,2007,IndiHome Cloud Storage 1TB,2023-07-11,3,300000,Transfer Bank
+IH054,2003,IndiHome Wireless Router,2024-04-27,4,300000,Kartu Kredit
+IH055,2009,IndiHome Paket TV Premium,2024-02-02,1,250000,Dompet Digital
+IH056,2001,IndiHome Domain & Web Hosting,2023-10-27,1,400000,Kartu Kredit
+IH057,2006,IndiHome Paket TV Premium,2023-11-16,1,750000,Tunai
+IH058,2006,IndiHome Paket Internet 100 Mbps,2024-05-05,3,700000,Tunai
+IH059,2003,IndiHome Paket Internet 10 Mbps,2024-01-23,4,600000,Dompet Digital
+IH060,2005,IndiHome Paket Internet 100 Mbps,2023-12-26,4,700000,Dompet Digital
+IH061,2006,IndiHome VPN,2023-08-10,1,300000,Dompet Digital
+IH062,2007,IndiHome Paket Internet 10 Mbps,2023-08-10,1,900000,Transfer Bank
+IH063,2001,IndiHome Wireless Router,2023-09-20,3,1200000,Dompet Digital
+IH064,2006,IndiHome TV Box,2023-09-17,2,1500000,Transfer Bank
+IH065,2004,IndiHome Game Online Unlimited,2024-02-09,4,200000,Kartu Kredit
+IH066,2009,IndiHome VPN,2023-07-22,1,500000,Transfer Bank
+IH067,2002,IndiHome Wi-Fi Mesh,2024-01-05,5,1000000,Dompet Digital
+IH068,2007,IndiHome Paket Internet 100 Mbps,2024-01-10,2,3500000,Kartu Kredit
+IH069,2004,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-05-15,1,1200000,Kartu Kredit
+IH070,2006,IndiHome Paket Internet 150 Mbps,2023-11-07,2,1800000,Transfer Bank
+IH071,2001,IndiHome Paket TV Olahraga,2023-11-19,5,400000,Transfer Bank
+IH072,2001,IndiHome Paket Internet 50 Mbps,2023-10-15,2,1000000,Dompet Digital
+IH073,2003,IndiHome Akses Internet Prioritas,2023-08-04,1,400000,Kartu Kredit
+IH074,2009,IndiHome Akses Internet Prioritas,2024-03-19,5,200000,Transfer Bank
+IH075,2009,IndiHome Paket Internet 10 Mbps,2023-07-19,2,600000,Tunai
+IH076,2003,IndiHome Paket Internet 150 Mbps,2024-03-24,2,4500000,Dompet Digital
+IH077,2006,IndiHome Paket TV Básico,2023-05-20,1,600000,Transfer Bank
+IH078,2006,IndiHome Paket Internet 20 Mbps,2023-06-27,3,2000000,Dompet Digital
+IH079,2004,IndiHome Access Point,2023-12-24,3,200000,Transfer Bank
+IH080,2002,IndiHome VPN,2024-05-07,4,300000,Kartu Kredit
+IH081,2007,IndiHome Wi-Fi Mesh,2023-08-12,3,200000,Tunai
+IH082,2008,IndiHome Paket TV Básico,2023-12-25,1,750000,Kartu Kredit
+IH083,2009,IndiHome Paket TV Premium,2023-08-23,2,1000000,Tunai
+IH084,2006,IndiHome Wi-Fi Mesh,2023-12-23,2,200000,Dompet Digital
+IH085,2004,IndiHome Parental Control,2023-11-09,5,150000,Dompet Digital
+IH086,2003,IndiHome Domain & Web Hosting,2023-06-13,5,800000,Dompet Digital
+IH087,2001,IndiHome Paket Internet 50 Mbps,2023-10-24,3,2500000,Kartu Kredit
+IH088,2005,IndiHome Access Point,2023-06-12,3,400000,Dompet Digital
+IH089,2006,IndiHome Game Online Unlimited,2024-04-03,4,500000,Transfer Bank
+IH090,2008,IndiHome Game Online Unlimited,2024-04-28,5,200000,Kartu Kredit
+IH091,2008,IndiHome Wireless Router,2023-08-18,2,1200000,Transfer Bank
+IH092,2009,IndiHome Parental Control,2023-06-16,3,120000,Kartu Kredit
+IH093,2005,IndiHome Akses Internet Prioritas,2024-01-09,5,200000,Kartu Kredit
+IH094,2006,IndiHome VPN,2024-03-28,4,200000,Dompet Digital
+IH095,2006,IndiHome Telepon Rumah Unlimited,2024-04-07,5,500000,Transfer Bank
+IH096,2001,IndiHome Smart Home Solution,2023-08-18,1,500000,Transfer Bank
+IH097,2007,IndiHome Telepon Rumah Unlimited,2024-03-16,5,500000,Dompet Digital
+IH098,2008,IndiHome Paket TV Básico,2023-05-27,5,150000,Transfer Bank
+IH099,2001,IndiHome Smart Home Solution,2024-02-05,1,1500000,Dompet Digital
+IH100,2009,IndiHome VPN,2024-01-27,2,400000,Kartu Kredit
+IH101,2008,IndiHome Game Online Unlimited,2024-02-01,2,400000,Dompet Digital
+IH102,2004,IndiHome VPN,2023-11-17,4,500000,Kartu Kredit
+IH103,2004,IndiHome Paket TV Olahraga,2024-03-19,4,600000,Kartu Kredit
+IH104,2006,IndiHome Paket TV Olahraga,2023-09-30,3,400000,Kartu Kredit
+IH105,2003,IndiHome Wi-Fi Mesh,2024-02-18,5,800000,Dompet Digital
+IH106,2006,IndiHome Paket Internet 20 Mbps,2024-01-18,4,2000000,Kartu Kredit
+IH107,2008,IndiHome Cloud Storage 1TB,2023-12-15,4,500000,Transfer Bank
+IH108,2009,IndiHome Paket TV Básico,2023-06-12,4,450000,Transfer Bank
+IH109,2006,IndiHome Video Konferensi,2023-06-30,5,500000,Kartu Kredit
+IH110,2008,IndiHome Video Konferensi,2023-10-23,5,1000000,Tunai
+IH111,2006,IndiHome Cloud Storage 1TB,2024-01-20,5,500000,Tunai
+IH112,2002,IndiHome Modem Fiber Optic,2023-09-24,5,800000,Dompet Digital
+IH113,2004,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-04-23,3,1800000,Kartu Kredit
+IH114,2007,IndiHome Modem Fiber Optic,2023-10-29,3,1600000,Tunai
+IH115,2009,IndiHome Paket Internet 10 Mbps,2023-09-22,5,900000,Transfer Bank
+IH116,2007,IndiHome Paket TV Premium,2024-04-25,1,500000,Tunai
+IH117,2001,IndiHome Paket TV Olahraga,2023-06-18,3,200000,Tunai
+IH118,2002,IndiHome Paket TV Premium,2024-04-29,1,1250000,Kartu Kredit
+IH119,2002,IndiHome Parental Control,2024-01-01,5,150000,Dompet Digital
+IH120,2002,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-11-28,2,2400000,Transfer Bank
+IH121,2009,IndiHome Domain & Web Hosting,2024-02-28,2,1000000,Dompet Digital
+IH122,2002,IndiHome Paket Internet 10 Mbps,2023-06-11,5,300000,Tunai
+IH123,2008,IndiHome Akses Internet Prioritas,2023-09-20,4,300000,Tunai
+IH124,2002,IndiHome TV Box,2023-08-01,4,2000000,Tunai
+IH125,2009,IndiHome Antivirus,2023-07-20,4,100000,Transfer Bank
+IH126,2008,IndiHome Access Point,2023-10-04,2,1000000,Transfer Bank
+IH127,2006,IndiHome Wireless Router,2023-09-24,5,600000,Tunai
+IH128,2005,IndiHome Cloud Storage 1TB,2023-07-08,3,300000,Kartu Kredit
+IH129,2004,IndiHome Paket Internet 100 Mbps,2023-11-27,5,3500000,Kartu Kredit
+IH130,2008,IndiHome VPN,2023-07-24,4,500000,Dompet Digital
+IH131,2008,IndiHome Paket Internet 100 Mbps,2023-06-08,5,1400000,Tunai
+IH132,2009,IndiHome IP Statis,2024-01-16,3,150000,Tunai
+IH133,2003,IndiHome Modem Fiber Optic,2024-04-18,4,800000,Transfer Bank
+IH134,2001,IndiHome Smart Home Solution,2023-10-09,4,1000000,Tunai
+IH135,2008,IndiHome Paket Internet 10 Mbps,2024-04-20,2,600000,Transfer Bank
+IH136,2009,IndiHome Smart Home Solution,2024-04-12,4,1000000,Transfer Bank
+IH137,2003,IndiHome Antivirus,2024-02-23,3,200000,Dompet Digital
+IH138,2004,IndiHome TV Box,2024-04-29,4,1000000,Dompet Digital
+IH139,2004,IndiHome Akses Internet Prioritas,2024-04-24,5,500000,Dompet Digital
+IH140,2007,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-11-02,4,2400000,Transfer Bank
+IH141,2007,IndiHome Paket TV Básico,2024-01-04,1,600000,Transfer Bank
+IH142,2009,IndiHome Paket Internet 50 Mbps,2024-03-29,2,1000000,Dompet Digital
+IH143,2004,IndiHome Paket TV Olahraga,2023-07-08,1,400000,Tunai
+IH144,2004,IndiHome Video Konferensi,2024-04-26,4,2500000,Tunai
+IH145,2004,IndiHome Paket Internet 100 Mbps,2024-01-25,5,700000,Tunai
+IH146,2005,IndiHome IP Statis,2024-03-07,2,150000,Dompet Digital
+IH147,2007,IndiHome Game Online Unlimited,2023-09-22,3,100000,Dompet Digital
+IH148,2004,IndiHome Antivirus,2024-01-29,1,50000,Transfer Bank
+IH149,2008,IndiHome Paket Internet 20 Mbps,2024-02-20,4,800000,Tunai
+IH150,2006,IndiHome Game Online Unlimited,2024-01-18,1,400000,Dompet Digital
+IH151,2004,IndiHome Smart Home Solution,2023-11-21,3,2500000,Dompet Digital
+IH152,2006,IndiHome Paket Internet 10 Mbps,2024-01-03,5,900000,Transfer Bank
+IH153,2005,IndiHome Telepon Rumah Unlimited,2024-02-22,1,200000,Kartu Kredit
+IH154,2009,IndiHome Paket TV Básico,2024-03-17,4,150000,Dompet Digital
+IH155,2005,IndiHome Paket Internet 50 Mbps,2023-10-03,4,500000,Transfer Bank
+IH156,2004,IndiHome Wi-Fi Mesh,2023-11-12,1,200000,Kartu Kredit
+IH157,2008,IndiHome Paket Internet 10 Mbps,2023-08-01,2,900000,Dompet Digital
+IH158,2006,IndiHome Paket TV Olahraga,2024-01-21,3,600000,Tunai
+IH159,2007,IndiHome Paket Internet 150 Mbps,2023-08-25,2,900000,Kartu Kredit
+IH160,2001,IndiHome Cloud Storage 1TB,2023-10-08,3,100000,Dompet Digital
+IH161,2002,IndiHome Modem Fiber Optic,2024-02-16,5,1200000,Tunai
+IH162,2002,IndiHome Paket Internet 50 Mbps,2023-06-28,5,2500000,Transfer Bank
+IH163,2009,IndiHome TV Box,2023-07-04,2,2500000,Kartu Kredit
+IH164,2001,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-02-09,1,2400000,Dompet Digital
+IH165,2003,IndiHome Parental Control,2023-09-11,3,150000,Transfer Bank
+IH166,2003,IndiHome Wireless Router,2023-06-03,2,1500000,Kartu Kredit
+IH167,2005,IndiHome Modem Fiber Optic,2023-07-18,1,800000,Dompet Digital
+IH168,2005,IndiHome Modem Fiber Optic,2023-06-24,5,1200000,Tunai
+IH169,2008,IndiHome Access Point,2023-10-13,4,800000,Tunai
+IH170,2003,IndiHome Video Konferensi,2024-01-09,1,500000,Tunai
+IH171,2009,IndiHome Paket Internet 50 Mbps,2023-06-21,5,2000000,Kartu Kredit
+IH172,2002,IndiHome Wi-Fi Mesh,2024-03-26,3,1000000,Tunai
+IH173,2005,IndiHome TV Box,2024-04-29,3,1000000,Dompet Digital
+IH174,2003,IndiHome Domain & Web Hosting,2023-05-16,2,800000,Tunai
+IH175,2002,IndiHome Smart Home Solution,2023-12-09,3,500000,Dompet Digital
+IH176,2002,IndiHome Paket Internet 10 Mbps,2024-03-31,2,1200000,Transfer Bank
+IH177,2005,IndiHome Paket TV Básico,2023-12-08,5,450000,Tunai
+IH178,2009,IndiHome Paket Internet 10 Mbps,2024-03-21,5,600000,Kartu Kredit
+IH179,2005,IndiHome IP Statis,2023-08-22,4,250000,Transfer Bank
+IH180,2007,IndiHome Paket Internet 100 Mbps,2023-09-16,2,2800000,Tunai
+IH181,2001,IndiHome IP Statis,2023-08-19,3,200000,Transfer Bank
+IH182,2004,IndiHome Paket Internet 100 Mbps,2024-02-16,3,1400000,Transfer Bank
+IH183,2004,IndiHome Modem Fiber Optic,2023-10-10,5,1600000,Kartu Kredit
+IH184,2007,IndiHome Video Konferensi,2023-09-01,2,2500000,Kartu Kredit
+IH185,2009,IndiHome Paket Internet 10 Mbps,2024-04-29,5,1500000,Kartu Kredit
+IH186,2008,IndiHome Paket Internet 20 Mbps,2023-12-29,5,400000,Kartu Kredit
+IH187,2002,IndiHome Paket Internet 100 Mbps,2023-09-21,2,700000,Kartu Kredit
+IH188,2006,IndiHome Paket TV Premium,2024-01-11,1,250000,Tunai
+IH189,2008,IndiHome Paket Internet 100 Mbps,2024-03-10,4,700000,Transfer Bank
+IH190,2004,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-02-16,4,3000000,Dompet Digital
+IH191,2007,IndiHome Domain & Web Hosting,2023-09-14,5,800000,Kartu Kredit
+IH192,2006,IndiHome Paket TV Olahraga,2024-02-02,4,600000,Dompet Digital
+IH193,2008,IndiHome Paket Internet 100 Mbps,2024-01-23,3,1400000,Dompet Digital
+IH194,2002,IndiHome Paket TV Olahraga,2024-03-01,3,800000,Tunai
+IH195,2001,IndiHome Domain & Web Hosting,2023-08-18,4,1000000,Dompet Digital
+IH196,2006,IndiHome Smart Home Solution,2024-02-22,2,500000,Tunai
+IH197,2004,IndiHome Game Online Unlimited,2024-03-03,5,400000,Kartu Kredit
+IH198,2005,IndiHome Paket Internet 10 Mbps,2023-12-19,1,900000,Dompet Digital
+IH199,2009,IndiHome Paket Internet 10 Mbps,2023-09-13,3,1500000,Kartu Kredit
+IH200,2001,IndiHome Paket Internet 150 Mbps,2024-02-14,3,900000,Dompet Digital
+IH201,2006,IndiHome Paket Internet 100 Mbps,2023-09-19,2,2800000,Kartu Kredit
+IH202,2006,IndiHome Akses Internet Prioritas,2023-09-16,3,100000,Dompet Digital
+IH203,2004,IndiHome Paket Internet 10 Mbps,2023-09-17,1,600000,Kartu Kredit
+IH204,2002,IndiHome Paket Internet 50 Mbps,2023-08-14,1,500000,Dompet Digital
+IH205,2004,IndiHome Cloud Storage 1TB,2023-09-20,1,200000,Dompet Digital
+IH206,2005,IndiHome Antivirus,2023-11-01,4,150000,Kartu Kredit
+IH207,2004,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-03-08,4,1800000,Transfer Bank
+IH208,2002,IndiHome Game Online Unlimited,2024-03-11,3,100000,Transfer Bank
+IH209,2009,IndiHome Modem Fiber Optic,2023-12-18,3,2000000,Dompet Digital
+IH210,2009,IndiHome IP Statis,2024-01-20,2,200000,Dompet Digital
+IH211,2007,IndiHome IP Statis,2024-04-30,5,100000,Kartu Kredit
+IH212,2005,IndiHome Game Online Unlimited,2024-05-05,1,100000,Dompet Digital
+IH213,2004,IndiHome Antivirus,2024-04-20,2,50000,Tunai
+IH214,2002,IndiHome Video Konferensi,2023-05-26,1,1500000,Dompet Digital
+IH215,2001,IndiHome Paket Internet 100 Mbps,2023-12-30,1,1400000,Transfer Bank
+IH216,2004,IndiHome Paket Internet 100 Mbps,2023-11-19,5,3500000,Transfer Bank
+IH217,2007,IndiHome Paket Internet 100 Mbps,2024-03-30,1,2100000,Kartu Kredit
+IH218,2001,IndiHome Cloud Storage 1TB,2023-06-25,5,200000,Tunai
+IH219,2003,IndiHome VPN,2023-07-14,3,100000,Tunai
+IH220,2004,IndiHome Telepon Rumah Unlimited,2023-10-11,1,400000,Tunai
+IH221,2008,IndiHome Wireless Router,2023-10-11,5,1200000,Dompet Digital
+IH222,2006,IndiHome Telepon Rumah Unlimited,2024-05-03,4,100000,Tunai
+IH223,2005,IndiHome Wireless Router,2024-04-13,4,300000,Dompet Digital
+IH224,2009,IndiHome Paket Internet 20 Mbps,2023-06-02,4,1200000,Transfer Bank
+IH225,2008,IndiHome Paket Internet 150 Mbps,2023-08-04,5,4500000,Dompet Digital
+IH226,2009,IndiHome TV Box,2023-11-17,1,1500000,Transfer Bank
+IH227,2009,IndiHome Telepon Rumah Unlimited,2023-11-08,1,300000,Dompet Digital
+IH228,2009,IndiHome Akses Internet Prioritas,2023-12-21,3,100000,Transfer Bank
+IH229,2007,IndiHome Paket TV Olahraga,2023-11-06,1,1000000,Transfer Bank
+IH230,2004,IndiHome VPN,2023-07-18,1,300000,Tunai
+IH231,2004,IndiHome Video Konferensi,2023-11-28,5,2500000,Dompet Digital
+IH232,2001,IndiHome Paket TV Premium,2023-09-22,4,750000,Tunai
+IH233,2009,IndiHome Modem Fiber Optic,2024-01-16,3,800000,Dompet Digital
+IH234,2009,IndiHome Paket TV Olahraga,2023-10-25,2,1000000,Dompet Digital
+IH235,2009,IndiHome IP Statis,2023-11-15,2,200000,Transfer Bank
+IH236,2006,IndiHome Access Point,2023-05-16,3,600000,Dompet Digital
+IH237,2004,IndiHome Cloud Storage 1TB,2023-07-15,5,500000,Kartu Kredit
+IH238,2008,IndiHome Telepon Rumah Unlimited,2023-09-16,2,200000,Dompet Digital
+IH239,2002,IndiHome Paket Internet 10 Mbps,2023-10-23,1,300000,Dompet Digital
+IH240,2008,IndiHome Domain & Web Hosting,2023-08-21,4,800000,Tunai
+IH241,2006,IndiHome Modem Fiber Optic,2023-10-05,1,800000,Tunai
+IH242,2008,IndiHome Parental Control,2024-04-13,1,120000,Kartu Kredit
+IH243,2009,IndiHome Paket Internet 20 Mbps,2023-07-26,4,400000,Tunai
+IH244,2004,IndiHome Paket TV Premium,2024-01-01,3,250000,Transfer Bank
+IH245,2005,IndiHome Paket TV Básico,2023-10-31,4,300000,Tunai
+IH246,2007,IndiHome IP Statis,2023-07-25,2,200000,Dompet Digital
+IH247,2007,IndiHome Paket Internet 10 Mbps,2023-11-14,4,300000,Transfer Bank
+IH248,2001,IndiHome Cloud Storage 1TB,2023-06-15,3,100000,Dompet Digital
+IH249,2001,IndiHome IP Statis,2023-05-26,3,50000,Kartu Kredit
+IH250,2006,IndiHome Antivirus,2023-10-08,3,150000,Transfer Bank
+IH251,2002,IndiHome Paket Internet 100 Mbps,2023-09-14,2,3500000,Dompet Digital
+IH252,2002,IndiHome Cloud Storage 1TB,2023-09-09,4,400000,Kartu Kredit
+IH253,2008,IndiHome Paket TV Olahraga,2024-01-30,4,800000,Dompet Digital
+IH254,2002,IndiHome VPN,2024-03-23,5,300000,Dompet Digital
+IH255,2008,IndiHome VPN,2023-06-12,3,100000,Dompet Digital
+IH256,2009,IndiHome Wi-Fi Mesh,2023-09-13,1,800000,Tunai
+IH257,2002,IndiHome Video Konferensi,2024-01-24,5,2500000,Kartu Kredit
+IH258,2001,IndiHome Paket Internet 150 Mbps,2023-11-12,2,4500000,Dompet Digital
+IH259,2003,IndiHome Video Konferensi,2023-07-22,5,2000000,Tunai
+IH260,2005,IndiHome Wi-Fi Mesh,2024-03-07,2,800000,Tunai
+IH261,2009,IndiHome Wireless Router,2023-09-08,4,1500000,Kartu Kredit
+IH262,2008,IndiHome Game Online Unlimited,2023-08-12,3,100000,Kartu Kredit
+IH263,2008,IndiHome TV Box,2024-01-30,3,2000000,Transfer Bank
+IH264,2004,IndiHome Cloud Storage 1TB,2023-11-03,3,200000,Kartu Kredit
+IH265,2008,IndiHome Access Point,2023-10-17,2,600000,Transfer Bank
+IH266,2008,IndiHome TV Box,2023-08-26,4,2500000,Transfer Bank
+IH267,2005,IndiHome Access Point,2023-12-06,2,400000,Transfer Bank
+IH268,2009,IndiHome Wireless Router,2024-02-28,5,600000,Transfer Bank
+IH269,2005,IndiHome Paket TV Olahraga,2024-03-27,1,1000000,Dompet Digital
+IH270,2001,IndiHome Wireless Router,2023-09-11,2,600000,Tunai
+IH271,2008,IndiHome Paket Internet 50 Mbps,2023-07-02,1,1500000,Kartu Kredit
+IH272,2004,IndiHome Paket Internet 20 Mbps,2024-04-21,5,1600000,Dompet Digital
+IH273,2007,IndiHome VPN,2023-06-19,5,500000,Kartu Kredit
+IH274,2005,IndiHome TV Box,2023-11-04,5,500000,Tunai
+IH275,2005,IndiHome Telepon Rumah Unlimited,2024-01-02,4,500000,Dompet Digital
+IH276,2003,IndiHome Paket Internet 100 Mbps,2023-05-19,2,3500000,Kartu Kredit
+IH277,2006,IndiHome TV Box,2023-06-11,3,1000000,Dompet Digital
+IH278,2006,IndiHome Paket Internet 20 Mbps,2023-10-06,4,1600000,Kartu Kredit
+IH279,2009,IndiHome Akses Internet Prioritas,2023-08-22,5,500000,Tunai
+IH280,2001,IndiHome Akses Internet Prioritas,2023-12-01,2,500000,Kartu Kredit
+IH281,2002,IndiHome Parental Control,2023-09-14,1,150000,Kartu Kredit
+IH282,2007,IndiHome Game Online Unlimited,2023-07-22,1,100000,Kartu Kredit
+IH283,2005,IndiHome Wi-Fi Mesh,2023-09-25,4,600000,Dompet Digital
+IH284,2003,IndiHome Video Konferensi,2024-02-17,3,500000,Transfer Bank
+IH285,2007,IndiHome Parental Control,2024-04-25,3,120000,Dompet Digital
+IH286,2005,IndiHome Paket Internet 50 Mbps,2024-04-24,3,1500000,Tunai
+IH287,2003,IndiHome Paket Internet 100 Mbps,2023-05-29,5,3500000,Kartu Kredit
+IH288,2006,IndiHome Paket Internet 10 Mbps,2024-01-18,5,600000,Kartu Kredit
+IH289,2007,IndiHome Paket Internet 50 Mbps,2024-04-22,3,2500000,Tunai
+IH290,2003,IndiHome Akses Internet Prioritas,2023-08-17,4,200000,Transfer Bank
+IH291,2004,IndiHome Telepon Rumah Unlimited,2023-10-24,5,200000,Dompet Digital
+IH292,2009,IndiHome Wi-Fi Mesh,2023-10-29,5,800000,Transfer Bank
+IH293,2002,IndiHome Video Konferensi,2023-07-07,2,1500000,Tunai
+IH294,2008,IndiHome Modem Fiber Optic,2024-04-04,4,2000000,Dompet Digital
+IH295,2002,IndiHome Smart Home Solution,2023-12-22,1,2500000,Kartu Kredit
+IH296,2003,IndiHome Wi-Fi Mesh,2023-10-30,3,1000000,Tunai
+IH297,2007,IndiHome Paket TV Básico,2023-06-24,2,150000,Transfer Bank
+IH298,2008,IndiHome Wireless Router,2023-09-25,1,300000,Tunai
+IH299,2002,IndiHome Akses Internet Prioritas,2023-07-28,5,300000,Kartu Kredit
+IH300,2003,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-07-24,3,3000000,Tunai
+IH301,2003,IndiHome Telepon Rumah Unlimited,2023-07-09,2,100000,Dompet Digital
+IH302,2008,IndiHome Paket TV Olahraga,2024-04-29,5,1000000,Tunai
+IH303,2002,IndiHome Wireless Router,2023-07-30,4,900000,Transfer Bank
+IH304,2005,IndiHome Cloud Storage 1TB,2023-11-22,2,300000,Dompet Digital
+IH305,2007,IndiHome Wi-Fi Mesh,2023-09-01,3,600000,Transfer Bank
+IH306,2003,IndiHome TV Box,2024-01-31,5,2000000,Transfer Bank
+IH307,2008,IndiHome Video Konferensi,2023-09-28,3,2500000,Transfer Bank
+IH308,2002,IndiHome IP Statis,2024-03-24,5,150000,Kartu Kredit
+IH309,2003,IndiHome Paket Internet 150 Mbps,2023-05-15,3,3600000,Dompet Digital
+IH310,2008,IndiHome Modem Fiber Optic,2023-08-27,2,1200000,Dompet Digital
+IH311,2002,IndiHome TV Box,2024-02-11,4,500000,Dompet Digital
+IH312,2007,IndiHome Antivirus,2024-03-22,2,250000,Kartu Kredit
+IH313,2006,IndiHome Access Point,2024-03-06,5,600000,Tunai
+IH314,2007,IndiHome Parental Control,2023-11-16,3,150000,Transfer Bank
+IH315,2005,IndiHome Modem Fiber Optic,2024-03-28,2,1200000,Dompet Digital
+IH316,2005,IndiHome Cloud Storage 1TB,2023-05-17,4,100000,Dompet Digital
+IH317,2006,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-11-05,5,1200000,Tunai
+IH318,2006,IndiHome Paket Internet 20 Mbps,2023-11-28,5,1200000,Transfer Bank
+IH319,2002,IndiHome Modem Fiber Optic,2023-09-26,3,400000,Transfer Bank
+IH320,2001,IndiHome Paket TV Olahraga,2024-01-06,3,200000,Kartu Kredit
+IH321,2002,IndiHome Paket Internet 10 Mbps,2024-05-04,1,1200000,Transfer Bank
+IH322,2002,IndiHome Domain & Web Hosting,2023-11-24,2,400000,Kartu Kredit
+IH323,2004,IndiHome Paket Internet 50 Mbps,2023-11-11,5,2500000,Kartu Kredit
+IH324,2003,IndiHome Modem Fiber Optic,2023-12-24,5,2000000,Tunai
+IH325,2001,IndiHome Paket TV Básico,2023-06-17,2,600000,Kartu Kredit
+IH326,2003,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-03-19,1,2400000,Transfer Bank
+IH327,2004,IndiHome Paket TV Básico,2023-06-21,5,450000,Dompet Digital
+IH328,2003,IndiHome Wi-Fi Mesh,2023-10-20,1,600000,Transfer Bank
+IH329,2009,IndiHome Parental Control,2024-03-19,5,150000,Dompet Digital
+IH330,2001,IndiHome Paket Internet 100 Mbps,2023-06-08,5,2100000,Kartu Kredit
+IH331,2004,IndiHome Smart Home Solution,2023-10-31,2,1000000,Kartu Kredit
+IH332,2009,IndiHome Cloud Storage 1TB,2023-05-18,3,300000,Dompet Digital
+IH333,2004,IndiHome Smart Home Solution,2023-08-25,1,2000000,Kartu Kredit
+IH334,2002,IndiHome Paket TV Básico,2023-09-21,5,450000,Transfer Bank
+IH335,2007,IndiHome Paket Internet 10 Mbps,2023-06-14,1,1200000,Transfer Bank
+IH336,2007,IndiHome Parental Control,2024-03-19,2,30000,Tunai
+IH337,2008,IndiHome TV Box,2023-06-07,1,1000000,Transfer Bank
+IH338,2007,IndiHome Cloud Storage 1TB,2023-05-18,1,300000,Dompet Digital
+IH339,2001,IndiHome Video Konferensi,2023-12-05,2,2000000,Tunai
+IH340,2004,IndiHome Paket TV Premium,2023-06-16,3,1000000,Tunai
+IH341,2003,IndiHome Paket TV Olahraga,2023-10-30,5,1000000,Dompet Digital
+IH342,2007,IndiHome Antivirus,2024-01-02,1,150000,Kartu Kredit
+IH343,2007,IndiHome Paket Internet 10 Mbps,2023-08-29,4,600000,Transfer Bank
+IH344,2003,IndiHome Paket Internet 10 Mbps,2023-10-03,5,600000,Dompet Digital
+IH345,2002,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-03-21,3,1800000,Transfer Bank
+IH346,2002,IndiHome IP Statis,2023-10-16,2,200000,Tunai
+IH347,2009,IndiHome Paket TV Olahraga,2024-01-23,3,600000,Tunai
+IH348,2006,IndiHome Modem Fiber Optic,2023-10-06,1,400000,Kartu Kredit
+IH349,2001,IndiHome Paket Internet 50 Mbps,2023-09-26,4,2500000,Tunai
+IH350,2004,IndiHome Domain & Web Hosting,2023-09-27,1,600000,Tunai
+IH351,2004,IndiHome Paket Internet 20 Mbps,2023-07-11,3,1600000,Transfer Bank
+IH352,2001,IndiHome Access Point,2024-03-02,5,400000,Dompet Digital
+IH353,2006,IndiHome Telepon Rumah Unlimited,2023-08-27,3,400000,Dompet Digital
+IH354,2006,IndiHome Paket Internet 20 Mbps,2023-10-16,3,400000,Transfer Bank
+IH355,2006,IndiHome Domain & Web Hosting,2023-06-19,5,600000,Kartu Kredit
+IH356,2001,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-11-12,4,1800000,Tunai
+IH357,2001,IndiHome Telepon Rumah Unlimited,2024-02-19,1,400000,Tunai
+IH358,2005,IndiHome Video Konferensi,2023-11-12,1,1000000,Kartu Kredit
+IH359,2009,IndiHome Video Konferensi,2023-12-26,4,2000000,Tunai
+IH360,2001,IndiHome Modem Fiber Optic,2023-07-02,1,1200000,Dompet Digital
+IH361,2004,IndiHome Paket Internet 100 Mbps,2023-12-30,2,2800000,Transfer Bank
+IH362,2004,IndiHome Akses Internet Prioritas,2023-08-06,1,500000,Kartu Kredit
+IH363,2006,IndiHome Paket Internet 20 Mbps,2023-05-21,4,1600000,Dompet Digital
+IH364,2001,IndiHome Domain & Web Hosting,2023-09-28,2,800000,Dompet Digital
+IH365,2005,IndiHome Access Point,2023-08-02,5,400000,Dompet Digital
+IH366,2004,IndiHome TV Box,2023-10-09,4,2000000,Transfer Bank
+IH367,2007,IndiHome Paket Internet 100 Mbps,2023-10-16,5,3500000,Kartu Kredit
+IH368,2008,IndiHome Paket TV Premium,2024-02-22,2,1250000,Dompet Digital
+IH369,2005,IndiHome Paket TV Olahraga,2023-12-16,1,200000,Tunai
+IH370,2007,IndiHome Paket TV Básico,2023-10-20,1,450000,Dompet Digital
+IH371,2001,IndiHome Smart Home Solution,2023-11-13,3,2500000,Tunai
+IH372,2001,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-04-18,2,600000,Transfer Bank
+IH373,2008,IndiHome Parental Control,2024-02-21,3,150000,Dompet Digital
+IH374,2004,IndiHome Paket Internet 150 Mbps,2024-01-12,4,1800000,Tunai
+IH375,2009,IndiHome Paket Internet 150 Mbps,2024-05-07,2,3600000,Kartu Kredit
+IH376,2008,IndiHome Smart Home Solution,2023-09-30,4,1500000,Tunai
+IH377,2002,IndiHome Paket Triple Play (Internet + TV + Telepon),2024-04-12,3,3000000,Dompet Digital
+IH378,2001,IndiHome TV Box,2023-07-06,3,500000,Kartu Kredit
+IH379,2008,IndiHome Paket Internet 50 Mbps,2023-11-08,2,1000000,Transfer Bank
+IH380,2008,IndiHome Paket Internet 100 Mbps,2023-12-16,5,1400000,Kartu Kredit
+IH381,2002,IndiHome TV Box,2023-11-08,3,1500000,Tunai
+IH382,2007,IndiHome Paket Internet 100 Mbps,2024-01-23,1,2100000,Tunai
+IH383,2006,IndiHome Game Online Unlimited,2023-07-12,1,200000,Dompet Digital
+IH384,2001,IndiHome Game Online Unlimited,2024-05-07,2,400000,Dompet Digital
+IH385,2009,IndiHome Paket Internet 10 Mbps,2023-07-21,5,600000,Transfer Bank
+IH386,2008,IndiHome VPN,2023-09-26,5,300000,Dompet Digital
+IH387,2001,IndiHome Paket Internet 50 Mbps,2023-08-21,4,1500000,Tunai
+IH388,2001,IndiHome TV Box,2023-10-29,4,2500000,Tunai
+IH389,2003,IndiHome Modem Fiber Optic,2024-04-01,4,2000000,Dompet Digital
+IH390,2009,IndiHome Paket TV Olahraga,2024-02-17,2,600000,Kartu Kredit
+IH391,2007,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-05-19,2,600000,Kartu Kredit
+IH392,2003,IndiHome Paket Internet 100 Mbps,2023-07-25,3,3500000,Tunai
+IH393,2002,IndiHome Modem Fiber Optic,2023-07-24,3,2000000,Dompet Digital
+IH394,2003,IndiHome Cloud Storage 1TB,2024-02-15,2,100000,Kartu Kredit
+IH395,2006,IndiHome Paket Triple Play (Internet + TV + Telepon),2023-05-16,5,1200000,Transfer Bank
+IH396,2006,IndiHome Paket Internet 150 Mbps,2023-11-19,4,900000,Kartu Kredit
+IH397,2009,IndiHome IP Statis,2023-09-03,2,50000,Dompet Digital
+IH398,2005,IndiHome Paket Internet 50 Mbps,2024-04-18,2,2000000,Transfer Bank
+IH399,2007,IndiHome Antivirus,2023-08-18,4,250000,Transfer Bank
+IH400,2003,IndiHome Video Konferensi,2023-09-15,3,1000000,Kartu Kredit

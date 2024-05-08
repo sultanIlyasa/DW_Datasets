@@ -1,0 +1,401 @@
+id_transaksi,id_pelanggan,id_produk,tanggal_transaksi,jumlah,total_pembayaran,metode_pembayaran
+T001,1008,Paket Roaming Eropa,2024-05-03,5,750000,Kartu Kredit
+T002,1002,Voucher Isi Ulang Pulsa,2024-02-06,4,757944,Tunai
+T003,1004,Paket Internet Malam,2023-12-20,5,125000,Tunai
+T004,1003,Paket Internet Korporat,2023-06-24,4,4000000,Dompet Digital
+T005,1005,Paket Data Unlimited,2023-10-14,3,600000,Transfer Bank
+T006,1002,Paket Nelpon 500 Menit,2023-12-04,3,120000,Kartu Kredit
+T007,1009,Paket Nelpon 100 Menit,2023-08-27,5,100000,Kartu Kredit
+T008,1009,Paket Roaming Eropa,2023-07-08,1,150000,Tunai
+T009,1005,Paket Internet Unlimited + TV Kabel,2023-07-12,2,600000,Kartu Kredit
+T010,1009,Paket Data Keluarga (4 Nomor),2023-10-08,4,600000,Kartu Kredit
+T011,1009,Paket SMS Unlimited,2023-05-26,1,15000,Kartu Kredit
+T012,1009,Paket Roaming Asia,2023-09-04,4,400000,Tunai
+T013,1008,Paket Nelpon 300 Menit,2023-07-27,5,150000,Tunai
+T014,1002,Paket Data 10GB,2024-04-28,1,100000,Kartu Kredit
+T015,1009,Smartphone Murah,2024-01-05,2,2000000,Dompet Digital
+T016,1003,Paket Data 10GB,2023-11-12,1,100000,Tunai
+T017,1002,Modem MiFi 4G,2023-12-02,3,1500000,Transfer Bank
+T018,1001,Paket Streaming Video,2023-09-29,4,300000,Kartu Kredit
+T019,1009,Kartu Perdana Loop,2024-05-07,1,20000,Tunai
+T020,1008,Paket Internet Korporat,2023-10-05,2,2000000,Tunai
+T021,1006,Kartu Perdana SimPATI,2023-12-30,4,40000,Kartu Kredit
+T022,1001,Paket Nelpon 100 Menit,2024-02-11,1,20000,Kartu Kredit
+T023,1004,Kartu Perdana AS,2023-07-01,4,60000,Kartu Kredit
+T024,1002,Paket Data 5GB,2023-09-11,2,100000,Tunai
+T025,1001,Kartu Perdana AS,2023-09-12,3,45000,Tunai
+T026,1007,Kartu Perdana SimPATI,2023-09-02,4,40000,Transfer Bank
+T027,1009,Paket Data 5GB,2023-10-29,2,100000,Kartu Kredit
+T028,1008,Paket Internet Malam,2023-12-08,5,125000,Dompet Digital
+T029,1008,Paket Nelpon 100 Menit,2023-10-05,3,60000,Kartu Kredit
+T030,1009,Paket Internet Korporat,2023-10-05,1,1000000,Tunai
+T031,1009,Paket Nelpon 300 Menit,2023-11-12,3,90000,Dompet Digital
+T032,1002,Kartu Perdana Loop,2023-11-23,4,80000,Tunai
+T033,1009,Paket Data 10GB,2023-10-27,2,200000,Transfer Bank
+T034,1002,Paket Internet Unlimited + TV Kabel,2023-10-05,1,300000,Dompet Digital
+T035,1005,Paket Data Unlimited,2024-03-27,4,800000,Tunai
+T036,1001,Paket SMS Unlimited,2024-01-15,1,15000,Kartu Kredit
+T037,1002,Kartu Perdana AS,2023-09-04,1,15000,Transfer Bank
+T038,1009,Paket Data 10GB,2023-08-13,4,400000,Dompet Digital
+T039,1005,Modem Wifi Portable,2023-07-21,5,1500000,Tunai
+T040,1006,Paket Data 10GB,2023-09-26,2,200000,Dompet Digital
+T041,1002,Kartu Perdana Loop,2023-10-22,2,40000,Transfer Bank
+T042,1009,Modem Wifi Portable,2023-10-13,1,300000,Tunai
+T043,1005,Paket Data 5GB,2023-11-20,4,200000,Transfer Bank
+T044,1004,Paket Nelpon 100 Menit,2023-12-21,2,40000,Tunai
+T045,1005,Paket Roaming Eropa,2024-02-14,1,150000,Tunai
+T046,1001,Paket Roaming Asia,2024-02-20,5,500000,Tunai
+T047,1003,Paket SMS Unlimited,2023-10-09,5,75000,Dompet Digital
+T048,1005,Modem MiFi 4G,2023-11-18,3,1500000,Kartu Kredit
+T049,1004,Paket Data Keluarga (4 Nomor),2023-09-01,3,450000,Dompet Digital
+T050,1006,Modem MiFi 4G,2023-07-13,2,1000000,Dompet Digital
+T051,1006,Paket Bundling Smartphone + Paket Data,2024-01-31,2,3000000,Dompet Digital
+T052,1003,Voucher Isi Ulang Pulsa,2024-03-04,5,947430,Tunai
+T053,1003,Paket Data 10GB,2023-10-10,2,200000,Tunai
+T054,1006,Paket Internet Unlimited + TV Kabel,2023-08-20,4,1200000,Transfer Bank
+T055,1002,Kartu Perdana SimPATI,2024-04-04,3,30000,Tunai
+T056,1001,Smartphone Murah,2024-04-20,2,2000000,Kartu Kredit
+T057,1003,Paket SMS Unlimited,2024-04-28,2,30000,Kartu Kredit
+T058,1003,Paket Data 5GB,2024-02-03,3,150000,Dompet Digital
+T059,1008,Modem Wifi Portable,2024-02-07,2,600000,Transfer Bank
+T060,1006,Paket Bundling Smartphone + Paket Data,2023-12-04,5,7500000,Tunai
+T061,1004,Modem MiFi 4G,2023-12-30,5,2500000,Tunai
+T062,1002,Paket Nelpon 300 Menit,2023-05-27,5,150000,Tunai
+T063,1006,Paket Nelpon 500 Menit,2023-09-26,2,80000,Kartu Kredit
+T064,1009,Paket Data Keluarga (4 Nomor),2024-01-26,1,150000,Tunai
+T065,1009,Paket SMS Unlimited,2023-09-07,2,30000,Dompet Digital
+T066,1002,Paket Nelpon 300 Menit,2023-06-18,3,90000,Dompet Digital
+T067,1005,Paket Data 2GB,2023-09-03,4,100000,Dompet Digital
+T068,1007,Paket Data 5GB,2023-11-22,4,200000,Dompet Digital
+T069,1004,Paket Data Unlimited,2023-06-18,1,200000,Dompet Digital
+T070,1009,Paket Data 2GB,2023-05-27,5,125000,Dompet Digital
+T071,1007,Paket Data 5GB,2023-09-14,4,200000,Kartu Kredit
+T072,1007,Kartu Perdana AS,2023-11-25,5,75000,Kartu Kredit
+T073,1007,Paket Data 2GB,2023-12-28,4,100000,Transfer Bank
+T074,1001,Paket Data Keluarga (4 Nomor),2023-07-10,3,450000,Transfer Bank
+T075,1008,Paket Data Keluarga (4 Nomor),2023-05-25,5,750000,Transfer Bank
+T076,1008,Kartu Perdana SimPATI,2023-06-28,4,40000,Transfer Bank
+T077,1001,Paket Data 10GB,2023-07-23,5,500000,Kartu Kredit
+T078,1003,Paket Roaming Eropa,2023-09-18,2,300000,Kartu Kredit
+T079,1008,Kartu Perdana SimPATI,2023-09-18,3,30000,Kartu Kredit
+T080,1004,Paket Internet Unlimited + TV Kabel,2023-09-19,2,600000,Dompet Digital
+T081,1002,Paket Data 2GB,2024-04-01,2,50000,Transfer Bank
+T082,1007,Kartu Perdana SimPATI,2023-07-10,1,10000,Kartu Kredit
+T083,1008,Paket Nelpon 300 Menit,2024-01-21,1,30000,Dompet Digital
+T084,1002,Kartu Perdana AS,2024-02-20,4,60000,Transfer Bank
+T085,1004,Smartphone Flagship,2023-06-11,3,15000000,Kartu Kredit
+T086,1003,Paket Data Unlimited,2023-07-18,5,1000000,Tunai
+T087,1006,Kartu Perdana SimPATI,2024-01-06,2,20000,Dompet Digital
+T088,1002,Paket Internet Korporat,2024-04-05,3,3000000,Dompet Digital
+T089,1004,Paket Data Unlimited,2024-03-11,5,1000000,Dompet Digital
+T090,1001,Paket Data Unlimited,2023-05-29,2,400000,Tunai
+T091,1002,Kartu Perdana SimPATI,2023-09-04,4,40000,Kartu Kredit
+T092,1001,Paket Nelpon 500 Menit,2024-04-04,2,80000,Kartu Kredit
+T093,1008,Paket Internet Unlimited + TV Kabel,2024-03-03,1,300000,Tunai
+T094,1006,Modem MiFi 4G,2024-04-06,4,2000000,Kartu Kredit
+T095,1009,Paket Nelpon 500 Menit,2023-06-14,1,40000,Transfer Bank
+T096,1009,Smartphone Flagship,2023-10-08,2,10000000,Tunai
+T097,1006,Smartphone Flagship,2024-01-11,4,20000000,Dompet Digital
+T098,1002,Paket Nelpon 300 Menit,2024-01-03,4,120000,Transfer Bank
+T099,1009,Paket Internet Malam,2024-05-05,2,50000,Tunai
+T100,1004,Paket SMS Unlimited,2024-02-27,5,75000,Dompet Digital
+T101,1002,Kartu Perdana Loop,2023-07-25,4,80000,Tunai
+T102,1007,Modem Wifi Portable,2023-10-01,3,900000,Kartu Kredit
+T103,1004,Paket Data 5GB,2023-09-03,1,50000,Transfer Bank
+T104,1004,Paket Streaming Video,2024-03-29,5,375000,Transfer Bank
+T105,1002,Paket Data 10GB,2024-03-07,3,300000,Dompet Digital
+T106,1007,Paket Data Keluarga (4 Nomor),2023-12-22,1,150000,Transfer Bank
+T107,1004,Paket Nelpon 100 Menit,2023-08-02,4,80000,Tunai
+T108,1006,Paket Roaming Asia,2024-02-25,4,400000,Tunai
+T109,1003,Kartu Perdana SimPATI,2024-03-19,1,10000,Dompet Digital
+T110,1007,Paket SMS Unlimited,2024-03-17,5,75000,Kartu Kredit
+T111,1001,Kartu Perdana SimPATI,2023-08-14,3,30000,Dompet Digital
+T112,1008,Paket Nelpon 300 Menit,2023-05-10,3,90000,Dompet Digital
+T113,1006,Paket Nelpon 500 Menit,2023-09-13,1,40000,Tunai
+T114,1008,Kartu Perdana SimPATI,2024-01-15,5,50000,Dompet Digital
+T115,1006,Paket Nelpon 100 Menit,2023-06-10,3,60000,Transfer Bank
+T116,1006,Paket SMS Unlimited,2024-01-20,1,15000,Tunai
+T117,1003,Paket Bundling Smartphone + Paket Data,2023-07-29,3,4500000,Transfer Bank
+T118,1002,Paket Internet Malam,2023-09-29,4,100000,Dompet Digital
+T119,1005,Paket Nelpon 300 Menit,2023-05-13,1,30000,Dompet Digital
+T120,1003,Voucher Isi Ulang Pulsa,2024-01-17,1,189486,Dompet Digital
+T121,1006,Paket Roaming Eropa,2023-08-04,5,750000,Kartu Kredit
+T122,1005,Smartphone Murah,2023-09-15,3,3000000,Kartu Kredit
+T123,1007,Kartu Perdana Loop,2024-02-28,2,40000,Kartu Kredit
+T124,1005,Paket Roaming Asia,2024-02-05,2,200000,Kartu Kredit
+T125,1008,Paket Bundling Smartphone + Paket Data,2023-07-07,3,4500000,Dompet Digital
+T126,1002,Paket Nelpon 500 Menit,2023-07-08,4,160000,Transfer Bank
+T127,1005,Paket Streaming Video,2024-05-04,5,375000,Dompet Digital
+T128,1008,Voucher Isi Ulang Pulsa,2023-06-03,4,757944,Tunai
+T129,1008,Paket Data Keluarga (4 Nomor),2023-08-17,3,450000,Transfer Bank
+T130,1009,Paket Data Unlimited,2023-11-24,1,200000,Tunai
+T131,1006,Paket Internet Korporat,2023-08-27,3,3000000,Transfer Bank
+T132,1006,Paket Data 5GB,2023-07-08,2,100000,Transfer Bank
+T133,1009,Smartphone Murah,2023-09-07,2,2000000,Dompet Digital
+T134,1008,Modem MiFi 4G,2023-12-08,3,1500000,Dompet Digital
+T135,1006,Paket Bundling Smartphone + Paket Data,2023-11-07,2,3000000,Dompet Digital
+T136,1008,Paket Internet Unlimited + TV Kabel,2023-12-18,1,300000,Transfer Bank
+T137,1002,Paket Internet Unlimited + TV Kabel,2023-06-04,5,1500000,Tunai
+T138,1001,Paket Nelpon 500 Menit,2023-10-03,5,200000,Tunai
+T139,1001,Paket Internet Korporat,2023-11-13,3,3000000,Tunai
+T140,1006,Paket Data Unlimited,2023-07-22,5,1000000,Dompet Digital
+T141,1008,Paket Nelpon 300 Menit,2023-05-12,5,150000,Kartu Kredit
+T142,1003,Paket Roaming Asia,2023-11-14,5,500000,Transfer Bank
+T143,1009,Paket Kuota Video Streaming,2023-05-21,5,250000,Dompet Digital
+T144,1007,Kartu Perdana Loop,2024-01-25,3,60000,Kartu Kredit
+T145,1007,Paket Nelpon 300 Menit,2023-11-17,2,60000,Kartu Kredit
+T146,1006,Paket Nelpon 100 Menit,2023-11-14,2,40000,Kartu Kredit
+T147,1007,Paket Streaming Video,2024-03-27,1,75000,Tunai
+T148,1003,Paket Data 5GB,2024-01-09,3,150000,Tunai
+T149,1003,Modem Wifi Portable,2023-07-06,5,1500000,Tunai
+T150,1006,Paket SMS Unlimited,2024-01-14,4,60000,Transfer Bank
+T151,1001,Kartu Perdana SimPATI,2023-06-10,3,30000,Tunai
+T152,1002,Paket Internet Korporat,2023-06-21,5,5000000,Tunai
+T153,1003,Paket Data Unlimited,2023-07-05,2,400000,Kartu Kredit
+T154,1005,Kartu Perdana AS,2023-09-13,2,30000,Tunai
+T155,1007,Paket Kuota Video Streaming,2023-08-12,3,150000,Kartu Kredit
+T156,1008,Smartphone Murah,2023-07-28,3,3000000,Tunai
+T157,1003,Paket Data Keluarga (4 Nomor),2023-08-04,1,150000,Dompet Digital
+T158,1007,Kartu Perdana AS,2023-07-13,2,30000,Transfer Bank
+T159,1001,Paket Data 5GB,2023-06-10,5,250000,Transfer Bank
+T160,1008,Voucher Isi Ulang Pulsa,2023-06-04,5,947430,Transfer Bank
+T161,1005,Paket Data Keluarga (4 Nomor),2024-01-14,5,750000,Kartu Kredit
+T162,1009,Paket Bundling Smartphone + Paket Data,2023-11-26,4,6000000,Transfer Bank
+T163,1002,Paket Internet Unlimited + TV Kabel,2024-03-03,2,600000,Dompet Digital
+T164,1008,Paket Data Unlimited,2023-10-20,3,600000,Transfer Bank
+T165,1007,Voucher Isi Ulang Pulsa,2023-07-13,5,947430,Kartu Kredit
+T166,1004,Voucher Isi Ulang Pulsa,2023-10-04,4,757944,Kartu Kredit
+T167,1006,Modem MiFi 4G,2023-07-05,4,2000000,Transfer Bank
+T168,1002,Smartphone Flagship,2023-10-29,1,5000000,Kartu Kredit
+T169,1005,Paket Data Keluarga (4 Nomor),2023-06-01,3,450000,Dompet Digital
+T170,1005,Kartu Perdana SimPATI,2024-01-23,2,20000,Tunai
+T171,1004,Kartu Perdana AS,2024-02-17,5,75000,Dompet Digital
+T172,1003,Modem MiFi 4G,2024-01-03,4,2000000,Tunai
+T173,1007,Paket Internet Malam,2023-05-11,2,50000,Dompet Digital
+T174,1004,Paket Bundling Smartphone + Paket Data,2024-02-02,5,7500000,Dompet Digital
+T175,1009,Kartu Perdana AS,2024-02-17,4,60000,Tunai
+T176,1007,Paket Data 2GB,2023-10-25,2,50000,Kartu Kredit
+T177,1008,Paket Bundling Smartphone + Paket Data,2023-06-21,2,3000000,Transfer Bank
+T178,1001,Paket Nelpon 300 Menit,2024-03-26,5,150000,Tunai
+T179,1006,Kartu Perdana AS,2024-02-02,4,60000,Tunai
+T180,1003,Paket Internet Unlimited + TV Kabel,2023-09-19,4,1200000,Dompet Digital
+T181,1007,Paket Data 2GB,2023-10-03,2,50000,Tunai
+T182,1003,Paket Roaming Asia,2024-02-05,1,100000,Tunai
+T183,1008,Paket Nelpon 100 Menit,2024-02-07,5,100000,Kartu Kredit
+T184,1005,Paket Streaming Video,2023-07-04,5,375000,Tunai
+T185,1003,Modem Wifi Portable,2023-11-28,1,300000,Transfer Bank
+T186,1005,Paket Roaming Eropa,2023-06-22,2,300000,Dompet Digital
+T187,1008,Paket Nelpon 300 Menit,2023-08-15,4,120000,Dompet Digital
+T188,1005,Voucher Isi Ulang Pulsa,2023-05-21,3,568458,Dompet Digital
+T189,1006,Paket Data Keluarga (4 Nomor),2023-12-24,5,750000,Kartu Kredit
+T190,1007,Paket Roaming Asia,2023-11-21,4,400000,Kartu Kredit
+T191,1007,Paket Roaming Eropa,2023-12-12,2,300000,Kartu Kredit
+T192,1007,Paket SMS Unlimited,2023-07-03,5,75000,Tunai
+T193,1009,Paket Data Keluarga (4 Nomor),2023-09-30,4,600000,Dompet Digital
+T194,1009,Paket Internet Malam,2024-02-11,3,75000,Tunai
+T195,1004,Paket Nelpon 500 Menit,2024-02-09,5,200000,Tunai
+T196,1003,Paket Roaming Eropa,2023-09-20,3,450000,Tunai
+T197,1005,Paket Nelpon 100 Menit,2024-01-13,4,80000,Kartu Kredit
+T198,1005,Paket Kuota Video Streaming,2023-09-23,2,100000,Transfer Bank
+T199,1008,Paket Data 5GB,2024-02-22,5,250000,Transfer Bank
+T200,1004,Paket Data 10GB,2023-06-04,3,300000,Tunai
+T201,1002,Paket Roaming Asia,2023-09-21,5,500000,Dompet Digital
+T202,1009,Paket Data Unlimited,2024-04-22,1,200000,Tunai
+T203,1008,Paket Data 10GB,2023-06-18,3,300000,Kartu Kredit
+T204,1009,Paket Data 5GB,2023-09-16,1,50000,Dompet Digital
+T205,1001,Paket Data 5GB,2023-07-30,5,250000,Dompet Digital
+T206,1005,Paket Data 10GB,2024-03-14,3,300000,Kartu Kredit
+T207,1003,Smartphone Flagship,2024-03-23,3,15000000,Dompet Digital
+T208,1007,Paket Internet Malam,2024-01-11,1,25000,Tunai
+T209,1002,Modem Wifi Portable,2024-02-15,2,600000,Kartu Kredit
+T210,1006,Paket Kuota Video Streaming,2023-08-17,3,150000,Transfer Bank
+T211,1009,Paket Internet Unlimited + TV Kabel,2023-05-19,2,600000,Dompet Digital
+T212,1005,Paket Data 2GB,2023-07-19,4,100000,Transfer Bank
+T213,1007,Paket Internet Unlimited + TV Kabel,2024-04-26,2,600000,Kartu Kredit
+T214,1002,Paket SMS Unlimited,2023-09-17,2,30000,Dompet Digital
+T215,1002,Kartu Perdana AS,2023-11-20,1,15000,Transfer Bank
+T216,1003,Paket Internet Unlimited + TV Kabel,2023-09-19,1,300000,Tunai
+T217,1001,Paket Data 2GB,2023-08-22,5,125000,Tunai
+T218,1008,Paket Internet Korporat,2024-03-19,4,4000000,Dompet Digital
+T219,1005,Paket Roaming Eropa,2023-06-11,2,300000,Dompet Digital
+T220,1002,Paket Nelpon 100 Menit,2023-09-02,5,100000,Kartu Kredit
+T221,1001,Voucher Isi Ulang Pulsa,2023-09-16,5,947430,Transfer Bank
+T222,1005,Smartphone Flagship,2023-08-06,2,10000000,Dompet Digital
+T223,1002,Smartphone Flagship,2023-08-05,3,15000000,Kartu Kredit
+T224,1004,Paket Data Keluarga (4 Nomor),2023-08-30,4,600000,Tunai
+T225,1002,Modem Wifi Portable,2023-08-07,2,600000,Transfer Bank
+T226,1004,Paket Data Unlimited,2023-11-08,1,200000,Tunai
+T227,1006,Kartu Perdana Loop,2023-08-17,2,40000,Kartu Kredit
+T228,1002,Paket Data 2GB,2023-10-10,5,125000,Kartu Kredit
+T229,1004,Paket Data 10GB,2023-06-22,1,100000,Tunai
+T230,1006,Paket Data Keluarga (4 Nomor),2023-12-31,4,600000,Kartu Kredit
+T231,1004,Paket Kuota Video Streaming,2023-06-05,2,100000,Tunai
+T232,1007,Paket Roaming Eropa,2023-05-30,5,750000,Tunai
+T233,1008,Paket Nelpon 100 Menit,2024-01-30,2,40000,Kartu Kredit
+T234,1001,Paket Nelpon 100 Menit,2023-08-04,1,20000,Kartu Kredit
+T235,1006,Modem MiFi 4G,2023-10-30,1,500000,Dompet Digital
+T236,1007,Paket Internet Malam,2023-07-04,3,75000,Kartu Kredit
+T237,1008,Kartu Perdana AS,2024-03-25,5,75000,Kartu Kredit
+T238,1009,Smartphone Flagship,2023-07-11,2,10000000,Kartu Kredit
+T239,1001,Paket Internet Malam,2024-03-17,1,25000,Kartu Kredit
+T240,1008,Paket Nelpon 100 Menit,2023-11-04,3,60000,Dompet Digital
+T241,1004,Paket Nelpon 500 Menit,2023-09-03,1,40000,Transfer Bank
+T242,1006,Kartu Perdana AS,2024-05-07,2,30000,Transfer Bank
+T243,1009,Paket Bundling Smartphone + Paket Data,2024-03-08,1,1500000,Transfer Bank
+T244,1002,Paket Data 10GB,2023-10-20,1,100000,Dompet Digital
+T245,1002,Voucher Isi Ulang Pulsa,2024-03-19,1,189486,Dompet Digital
+T246,1001,Paket Bundling Smartphone + Paket Data,2023-09-24,3,4500000,Kartu Kredit
+T247,1004,Paket Data 5GB,2023-05-22,3,150000,Kartu Kredit
+T248,1004,Paket Nelpon 100 Menit,2023-10-09,3,60000,Transfer Bank
+T249,1003,Paket Data Keluarga (4 Nomor),2024-03-10,2,300000,Tunai
+T250,1002,Paket Data 2GB,2024-01-16,1,25000,Tunai
+T251,1003,Paket Data Keluarga (4 Nomor),2023-10-17,3,450000,Tunai
+T252,1002,Paket Internet Unlimited + TV Kabel,2023-06-11,5,1500000,Tunai
+T253,1002,Paket Roaming Eropa,2023-05-10,3,450000,Tunai
+T254,1002,Paket Roaming Asia,2023-05-27,5,500000,Transfer Bank
+T255,1008,Paket Roaming Eropa,2024-01-14,1,150000,Dompet Digital
+T256,1009,Paket Data 5GB,2024-03-23,5,250000,Tunai
+T257,1008,Modem MiFi 4G,2023-11-05,1,500000,Kartu Kredit
+T258,1009,Kartu Perdana SimPATI,2023-11-08,1,10000,Kartu Kredit
+T259,1005,Voucher Isi Ulang Pulsa,2023-05-11,2,378972,Dompet Digital
+T260,1007,Voucher Isi Ulang Pulsa,2023-09-29,5,947430,Kartu Kredit
+T261,1005,Paket Nelpon 100 Menit,2024-01-25,1,20000,Tunai
+T262,1004,Kartu Perdana SimPATI,2023-10-21,3,30000,Kartu Kredit
+T263,1004,Paket Nelpon 500 Menit,2023-05-14,3,120000,Transfer Bank
+T264,1004,Paket Data 2GB,2023-08-17,3,75000,Kartu Kredit
+T265,1001,Paket Internet Unlimited + TV Kabel,2024-03-01,4,1200000,Tunai
+T266,1006,Smartphone Murah,2023-09-13,5,5000000,Dompet Digital
+T267,1004,Paket Internet Unlimited + TV Kabel,2024-03-26,5,1500000,Tunai
+T268,1002,Paket Nelpon 100 Menit,2023-12-15,3,60000,Dompet Digital
+T269,1006,Modem Wifi Portable,2023-08-22,5,1500000,Dompet Digital
+T270,1007,Kartu Perdana SimPATI,2024-02-25,5,50000,Dompet Digital
+T271,1005,Paket Internet Malam,2023-08-10,5,125000,Tunai
+T272,1001,Modem Wifi Portable,2023-12-24,4,1200000,Tunai
+T273,1003,Paket Kuota Video Streaming,2023-06-27,3,150000,Transfer Bank
+T274,1005,Paket Kuota Video Streaming,2024-03-28,2,100000,Transfer Bank
+T275,1006,Voucher Isi Ulang Pulsa,2023-05-31,3,568458,Dompet Digital
+T276,1008,Smartphone Flagship,2023-05-24,4,20000000,Kartu Kredit
+T277,1005,Paket Data 2GB,2024-02-11,2,50000,Tunai
+T278,1009,Paket Data Unlimited,2024-02-11,4,800000,Tunai
+T279,1009,Paket Internet Unlimited + TV Kabel,2024-02-29,4,1200000,Tunai
+T280,1007,Paket Bundling Smartphone + Paket Data,2024-01-01,4,6000000,Tunai
+T281,1009,Paket Streaming Video,2023-08-12,4,300000,Kartu Kredit
+T282,1005,Paket Roaming Asia,2023-07-17,3,300000,Kartu Kredit
+T283,1004,Modem MiFi 4G,2023-09-10,3,1500000,Kartu Kredit
+T284,1006,Paket Data Unlimited,2023-12-04,5,1000000,Tunai
+T285,1005,Paket Internet Malam,2023-07-13,3,75000,Tunai
+T286,1007,Paket SMS Unlimited,2024-04-03,2,30000,Dompet Digital
+T287,1002,Paket Internet Unlimited + TV Kabel,2024-05-04,5,1500000,Kartu Kredit
+T288,1007,Paket Kuota Video Streaming,2023-08-10,2,100000,Kartu Kredit
+T289,1003,Paket Data Unlimited,2023-06-09,2,400000,Transfer Bank
+T290,1006,Paket SMS Unlimited,2023-10-30,4,60000,Tunai
+T291,1009,Paket Roaming Asia,2023-12-25,1,100000,Tunai
+T292,1004,Paket Kuota Video Streaming,2024-02-28,4,200000,Dompet Digital
+T293,1005,Paket Data Keluarga (4 Nomor),2024-02-03,1,150000,Transfer Bank
+T294,1002,Paket Roaming Asia,2024-03-20,3,300000,Transfer Bank
+T295,1005,Paket Data Unlimited,2024-03-15,1,200000,Kartu Kredit
+T296,1003,Paket Bundling Smartphone + Paket Data,2023-10-19,4,6000000,Dompet Digital
+T297,1004,Paket Internet Unlimited + TV Kabel,2024-02-01,2,600000,Kartu Kredit
+T298,1005,Kartu Perdana AS,2023-09-01,2,30000,Dompet Digital
+T299,1002,Paket Data 5GB,2023-09-20,4,200000,Tunai
+T300,1005,Paket Roaming Asia,2023-06-04,2,200000,Kartu Kredit
+T301,1003,Smartphone Flagship,2024-04-16,2,10000000,Tunai
+T302,1009,Kartu Perdana SimPATI,2023-08-07,5,50000,Kartu Kredit
+T303,1002,Voucher Isi Ulang Pulsa,2023-10-28,4,757944,Kartu Kredit
+T304,1009,Paket Bundling Smartphone + Paket Data,2023-07-13,2,3000000,Transfer Bank
+T305,1009,Paket Data 10GB,2023-06-24,2,200000,Tunai
+T306,1008,Modem MiFi 4G,2023-08-16,3,1500000,Tunai
+T307,1006,Voucher Isi Ulang Pulsa,2024-01-22,2,378972,Transfer Bank
+T308,1008,Paket Data 5GB,2024-03-06,3,150000,Kartu Kredit
+T309,1001,Modem Wifi Portable,2024-02-06,2,600000,Transfer Bank
+T310,1007,Paket Internet Unlimited + TV Kabel,2023-05-19,2,600000,Tunai
+T311,1007,Paket Nelpon 100 Menit,2024-04-22,1,20000,Tunai
+T312,1001,Paket Roaming Asia,2024-01-22,3,300000,Transfer Bank
+T313,1001,Paket Data 5GB,2023-11-11,2,100000,Kartu Kredit
+T314,1006,Paket SMS Unlimited,2023-10-18,5,75000,Tunai
+T315,1005,Paket Roaming Eropa,2023-10-05,2,300000,Transfer Bank
+T316,1005,Voucher Isi Ulang Pulsa,2023-09-24,4,757944,Kartu Kredit
+T317,1006,Paket Roaming Asia,2024-03-23,2,200000,Dompet Digital
+T318,1005,Paket Kuota Video Streaming,2023-05-28,2,100000,Kartu Kredit
+T319,1008,Smartphone Murah,2023-08-07,5,5000000,Transfer Bank
+T320,1008,Smartphone Flagship,2023-09-16,2,10000000,Dompet Digital
+T321,1003,Smartphone Murah,2023-12-18,4,4000000,Kartu Kredit
+T322,1004,Paket Data Keluarga (4 Nomor),2024-04-02,1,150000,Tunai
+T323,1004,Paket Data Keluarga (4 Nomor),2024-02-27,2,300000,Transfer Bank
+T324,1002,Paket Internet Unlimited + TV Kabel,2023-06-24,1,300000,Dompet Digital
+T325,1003,Kartu Perdana Loop,2023-08-30,5,100000,Dompet Digital
+T326,1001,Paket Internet Unlimited + TV Kabel,2023-08-05,3,900000,Dompet Digital
+T327,1005,Paket Internet Korporat,2023-06-26,5,5000000,Kartu Kredit
+T328,1005,Paket Data Unlimited,2024-01-13,2,400000,Tunai
+T329,1004,Voucher Isi Ulang Pulsa,2023-12-18,1,189486,Transfer Bank
+T330,1007,Paket Data Keluarga (4 Nomor),2023-05-21,2,300000,Tunai
+T331,1003,Paket Roaming Asia,2024-01-03,5,500000,Transfer Bank
+T332,1004,Smartphone Flagship,2023-05-14,1,5000000,Dompet Digital
+T333,1005,Voucher Isi Ulang Pulsa,2024-03-01,4,757944,Transfer Bank
+T334,1007,Voucher Isi Ulang Pulsa,2024-02-19,4,757944,Kartu Kredit
+T335,1007,Paket Nelpon 500 Menit,2023-08-25,3,120000,Kartu Kredit
+T336,1008,Paket Roaming Asia,2023-12-19,2,200000,Tunai
+T337,1005,Paket Nelpon 100 Menit,2023-12-14,3,60000,Tunai
+T338,1009,Paket Internet Malam,2024-02-20,1,25000,Tunai
+T339,1001,Kartu Perdana Loop,2023-05-28,2,40000,Kartu Kredit
+T340,1001,Paket Nelpon 100 Menit,2023-07-27,1,20000,Kartu Kredit
+T341,1001,Paket Nelpon 100 Menit,2024-01-08,4,80000,Transfer Bank
+T342,1008,Paket Internet Malam,2023-10-20,4,100000,Tunai
+T343,1003,Paket Data 10GB,2023-08-03,2,200000,Tunai
+T344,1003,Modem MiFi 4G,2023-07-13,4,2000000,Dompet Digital
+T345,1009,Paket Kuota Video Streaming,2024-04-10,3,150000,Kartu Kredit
+T346,1008,Voucher Isi Ulang Pulsa,2024-03-19,4,757944,Transfer Bank
+T347,1002,Kartu Perdana SimPATI,2023-11-30,2,20000,Tunai
+T348,1002,Paket Nelpon 100 Menit,2023-09-01,5,100000,Dompet Digital
+T349,1001,Paket Roaming Eropa,2024-01-02,1,150000,Kartu Kredit
+T350,1009,Paket Data Unlimited,2024-03-14,1,200000,Transfer Bank
+T351,1001,Paket Streaming Video,2023-10-25,5,375000,Transfer Bank
+T352,1002,Modem Wifi Portable,2023-06-09,2,600000,Transfer Bank
+T353,1002,Smartphone Flagship,2023-07-07,3,15000000,Tunai
+T354,1007,Paket Data 5GB,2023-12-12,3,150000,Dompet Digital
+T355,1008,Paket Internet Unlimited + TV Kabel,2023-08-12,3,900000,Tunai
+T356,1008,Paket Data 10GB,2023-07-09,3,300000,Tunai
+T357,1005,Paket Data 5GB,2023-09-09,4,200000,Kartu Kredit
+T358,1006,Paket Data 10GB,2023-09-29,4,400000,Dompet Digital
+T359,1008,Paket Data 10GB,2023-07-11,3,300000,Dompet Digital
+T360,1003,Smartphone Murah,2023-09-26,1,1000000,Tunai
+T361,1009,Paket Nelpon 500 Menit,2023-11-27,4,160000,Kartu Kredit
+T362,1002,Paket Data Keluarga (4 Nomor),2023-09-26,4,600000,Transfer Bank
+T363,1004,Voucher Isi Ulang Pulsa,2023-11-05,5,947430,Transfer Bank
+T364,1001,Paket Kuota Video Streaming,2023-05-10,4,200000,Dompet Digital
+T365,1004,Kartu Perdana SimPATI,2024-01-16,2,20000,Tunai
+T366,1005,Paket Nelpon 100 Menit,2023-07-02,5,100000,Dompet Digital
+T367,1003,Paket Nelpon 300 Menit,2023-12-05,1,30000,Kartu Kredit
+T368,1009,Paket SMS Unlimited,2023-08-25,4,60000,Kartu Kredit
+T369,1003,Paket Nelpon 500 Menit,2023-08-01,5,200000,Kartu Kredit
+T370,1009,Paket Internet Korporat,2024-02-14,5,5000000,Kartu Kredit
+T371,1008,Kartu Perdana AS,2024-05-03,1,15000,Tunai
+T372,1008,Voucher Isi Ulang Pulsa,2023-08-31,1,189486,Transfer Bank
+T373,1005,Paket Data 5GB,2024-02-22,3,150000,Tunai
+T374,1007,Paket Data Unlimited,2023-05-23,3,600000,Dompet Digital
+T375,1004,Paket Nelpon 100 Menit,2023-07-13,2,40000,Transfer Bank
+T376,1006,Paket Roaming Asia,2023-05-25,2,200000,Tunai
+T377,1001,Smartphone Murah,2024-04-14,3,3000000,Kartu Kredit
+T378,1006,Kartu Perdana SimPATI,2023-10-07,3,30000,Kartu Kredit
+T379,1002,Paket Roaming Eropa,2023-07-20,3,450000,Tunai
+T380,1001,Voucher Isi Ulang Pulsa,2023-09-01,1,189486,Tunai
+T381,1007,Smartphone Murah,2023-08-09,4,4000000,Kartu Kredit
+T382,1005,Paket Nelpon 300 Menit,2024-03-28,5,150000,Tunai
+T383,1005,Kartu Perdana AS,2024-03-25,3,45000,Transfer Bank
+T384,1009,Paket Nelpon 500 Menit,2023-08-21,5,200000,Tunai
+T385,1007,Paket Internet Malam,2023-07-15,4,100000,Dompet Digital
+T386,1004,Paket Internet Malam,2023-06-25,4,100000,Dompet Digital
+T387,1007,Paket Internet Malam,2023-05-22,4,100000,Dompet Digital
+T388,1002,Paket Internet Korporat,2023-07-25,3,3000000,Tunai
+T389,1002,Kartu Perdana SimPATI,2024-01-02,5,50000,Dompet Digital
+T390,1006,Paket Data Unlimited,2023-07-05,3,600000,Transfer Bank
+T391,1003,Paket Streaming Video,2023-10-20,1,75000,Transfer Bank
+T392,1003,Paket Nelpon 500 Menit,2023-09-06,3,120000,Tunai
+T393,1007,Paket Nelpon 500 Menit,2023-08-05,2,80000,Dompet Digital
+T394,1003,Paket Streaming Video,2024-05-03,5,375000,Dompet Digital
+T395,1008,Paket Nelpon 300 Menit,2023-05-29,2,60000,Tunai
+T396,1009,Modem MiFi 4G,2023-06-26,2,1000000,Transfer Bank
+T397,1001,Modem MiFi 4G,2024-03-03,3,1500000,Tunai
+T398,1009,Paket Internet Malam,2023-09-12,1,25000,Tunai
+T399,1004,Modem Wifi Portable,2023-07-17,5,1500000,Dompet Digital
+T400,1008,Modem Wifi Portable,2023-10-27,3,900000,Tunai

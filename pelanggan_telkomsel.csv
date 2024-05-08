@@ -1,0 +1,401 @@
+id_pelanggan,nama_pelanggan,alamat,kota,provinsi,kode_pos,nomor_telepon,tanggal_lahir,jenis_kelamin,status_pelanggan
+1,Kanda Tampubolon,"Jl. Rungkut Industri No. 9, Pangkalpinang, MU 59579",Pariaman,Maluku Utara,49207,+62-570-779-2198,1967-07-30,Perempuan,Aktif
+2,Zelda Lailasari,"Gg. BKR No. 9, Serang, Banten 66255",Depok,Kalimantan Timur,13441,086 645 4225,2000-06-26,Laki-laki,Aktif
+3,Malika Putra,"Jl. Kebonjati No. 43, Banjarbaru, MA 15222",Tanjungbalai,Nusa Tenggara Barat,38019,+62 (0473) 629-8440,1954-05-21,Perempuan,Nonaktif
+4,dr. Raden Pratama,"Jalan Pasirkoja No. 67, Semarang, LA 81570",Kediri,Papua Barat,60825,+62 (0952) 146-0328,1983-02-01,Laki-laki,Nonaktif
+5,Titin Waluyo,"Gang Moch. Toha No. 6, Cilegon, JI 27834",Kota Administrasi Jakarta Selatan,Jawa Tengah,53325,+62 (79) 306-3525,1976-03-03,Perempuan,Nonaktif
+6,R.M. Garan Haryanto,"Jalan Kutisari Selatan No. 6, Dumai, DKI Jakarta 80891",Sibolga,Sulawesi Tengah,59869,+62-94-355-1643,1979-05-07,Laki-laki,Nonaktif
+7,Reza Latupono,"Gg. R.E Martadinata No. 8, Gorontalo, Papua 40301",Madiun,Kalimantan Timur,27558,+62 (0376) 390-5036,1952-05-26,Laki-laki,Aktif
+8,Caket Maheswara,"Jl. Cihampelas No. 51, Tasikmalaya, SS 24394",Probolinggo,Sulawesi Tenggara,16379,(0892) 074-0381,1981-09-22,Laki-laki,Aktif
+9,Anggabaya Yolanda,"Gang Yos Sudarso No. 6, Medan, SS 09029",Tangerang Selatan,Kalimantan Selatan,34956,+62-170-103-2230,1971-05-19,Perempuan,Aktif
+10,Elisa Marbun,"Jalan Ahmad Yani No. 7, Bekasi, SU 83516",Tual,Kalimantan Selatan,83685,+62 (0690) 731-7079,1954-07-02,Laki-laki,Aktif
+11,Zamira Andriani,"Jl. Cikutra Timur No. 53, Bukittinggi, Sumatera Selatan 32176",Metro,Kalimantan Selatan,07352,+62 (0035) 636-5457,1963-03-15,Perempuan,Aktif
+12,Cut Mila Waskita,"Gg. Joyoboyo No. 33, Tanjungbalai, Bali 29707",Kupang,Sulawesi Tenggara,03432,+62-67-365-8919,1991-08-25,Perempuan,Nonaktif
+13,Ir. Nurul Astuti,"Gang Laswi No. 2, Kendari, DKI Jakarta 65269",Binjai,Kalimantan Barat,32938,081 116 5693,1947-09-11,Laki-laki,Aktif
+14,Iriana Halimah,"Jl. Bangka Raya No. 54, Medan, BB 90810",Gorontalo,Kalimantan Timur,79776,0866204996,1991-06-11,Laki-laki,Aktif
+15,Sabrina Halimah,"Jalan Moch. Toha No. 5, Metro, Riau 23614",Padang,Maluku,10354,+62-060-149-8863,1965-03-25,Laki-laki,Nonaktif
+16,"Martaka Sitorus, M.Kom.","Jl. Dipatiukur No. 49, Pematangsiantar, AC 04731",Kendari,Sumatera Barat,07952,+62 (78) 343-0904,2005-01-08,Laki-laki,Aktif
+17,Taufik Narpati,"Jalan Sukajadi No. 179, Bogor, BT 18138",Padangpanjang,Sumatera Utara,72994,+62 (872) 007-6278,2002-04-15,Laki-laki,Aktif
+18,Lukita Hutasoit,"Jl. Astana Anyar No. 094, Batu, JI 07957",Madiun,Kalimantan Timur,05056,(0018) 147 3033,1980-02-04,Perempuan,Aktif
+19,"Lasmono Wahyudin, S.T.","Gang Tubagus Ismail No. 3, Serang, Sulawesi Tenggara 24598",Kupang,Riau,50928,+62 (92) 431 9148,1966-05-18,Laki-laki,Nonaktif
+20,Drs. Elma Puspita,"Gg. Cikutra Barat No. 16, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 51434",Kediri,Papua,65766,+62 (0717) 450-1908,1974-02-16,Perempuan,Aktif
+21,Galur Nurdiyanti,"Gg. Cikutra Barat No. 82, Kotamobagu, Papua 99386",Medan,Aceh,12716,+62 (040) 083 0128,1969-02-05,Perempuan,Nonaktif
+22,Tiara Gunawan,"Gg. Cikutra Barat No. 215, Bogor, BA 91944",Batu,Sulawesi Utara,65870,0840422268,1953-10-28,Laki-laki,Aktif
+23,Julia Salahudin,"Jl. Setiabudhi No. 3, Tebingtinggi, JK 22496",Jayapura,Kalimantan Selatan,46139,+62 (35) 043-5388,1968-02-13,Perempuan,Nonaktif
+24,Fathonah Yulianti,"Gang Yos Sudarso No. 1, Gorontalo, Jawa Timur 30057",Kediri,Nusa Tenggara Barat,73363,0823733354,1983-01-26,Perempuan,Aktif
+25,Jane Mayasari,"Jalan Gardujati No. 26, Palopo, KU 46361",Jayapura,Sulawesi Utara,77532,(0181) 468-6976,1974-07-19,Perempuan,Aktif
+26,Shania Suryatmi,"Jalan Ahmad Dahlan No. 24, Tasikmalaya, JB 47982",Bima,Sulawesi Tenggara,88153,+62-16-792-7436,1993-10-31,Laki-laki,Nonaktif
+27,Ian Usada,"Jl. Antapani Lama No. 1, Pariaman, KT 72675",Banda Aceh,Sulawesi Barat,12038,(054) 416 7803,1981-05-07,Perempuan,Nonaktif
+28,"Rafid Sitompul, S.Sos","Jl. Kutai No. 048, Batam, Jawa Timur 77513",Subulussalam,Jawa Tengah,00904,0872690089,1946-11-30,Perempuan,Aktif
+29,Siska Prastuti,"Jl. Cihampelas No. 26, Prabumulih, BE 60401",Kota Administrasi Jakarta Utara,Papua,42125,+62 (0190) 750 4462,1983-03-01,Laki-laki,Nonaktif
+30,Hj. Kamila Uyainah,"Jalan Ahmad Yani No. 8, Metro, JB 41946",Jayapura,Nusa Tenggara Barat,67877,+62-0035-607-8702,1963-11-15,Perempuan,Nonaktif
+31,Karimah Dongoran,"Gang Moch. Ramdan No. 51, Surakarta, KS 51521",Pekanbaru,Kepulauan Riau,28482,+62-045-784-5088,1959-03-06,Laki-laki,Aktif
+32,Restu Andriani,"Gang Setiabudhi No. 87, Surabaya, Maluku Utara 65080",Pematangsiantar,Sulawesi Selatan,18477,+62 (036) 315-8647,1986-09-18,Laki-laki,Nonaktif
+33,Mujur Gunawan,"Jalan Siliwangi No. 454, Kupang, Jawa Barat 12885",Pekanbaru,Aceh,33620,+62 (24) 746 6052,1974-03-15,Laki-laki,Aktif
+34,"Irsad Suwarno, S.Ked","Gang Sentot Alibasa No. 62, Banda Aceh, Sulawesi Tenggara 86003",Purwokerto,DI Yogyakarta,33098,084 065 7740,1953-09-15,Laki-laki,Nonaktif
+35,Makara Hastuti,"Gg. Cikapayang No. 364, Kota Administrasi Jakarta Selatan, RI 26802",Batam,Jawa Barat,75864,+62 (046) 080-5564,1967-08-15,Laki-laki,Nonaktif
+36,"T. Darsirah Saefullah, S.I.Kom","Jalan Astana Anyar No. 280, Prabumulih, Sulawesi Barat 06965",Meulaboh,Papua,29222,+62-0656-433-6141,1981-02-22,Laki-laki,Aktif
+37,"Tomi Wastuti, S.E.I","Jl. Sukajadi No. 5, Palangkaraya, YO 75058",Pangkalpinang,Sulawesi Barat,01240,085 559 0934,1965-02-04,Laki-laki,Nonaktif
+38,Dian Firgantoro,"Gang Ciwastra No. 604, Bitung, Banten 22275",Pangkalpinang,Sulawesi Tenggara,54803,+62-98-071-1909,1977-05-18,Laki-laki,Nonaktif
+39,Laila Pratama,"Gg. Suryakencana No. 0, Tidore Kepulauan, Maluku Utara 52046",Tidore Kepulauan,Riau,42799,+62-12-423-9432,1978-12-22,Laki-laki,Aktif
+40,Raditya Natsir,"Gg. Jend. Sudirman No. 6, Bima, JB 86727",Banda Aceh,Nusa Tenggara Timur,37143,+62 (084) 836 3395,1990-12-29,Perempuan,Nonaktif
+41,"dr. Bancar Januar, S.Farm","Gg. Suniaraja No. 1, Cirebon, JA 73660",Bitung,Sulawesi Barat,40785,+62 (16) 206-9716,1977-02-06,Perempuan,Aktif
+42,Rahmi Lailasari,"Gang Gedebage Selatan No. 787, Tangerang, Jawa Barat 56367",Pekalongan,Sulawesi Tengah,66757,+62 (085) 365-6763,1966-12-27,Laki-laki,Aktif
+43,Harjasa Safitri,"Gg. Sukajadi No. 22, Jayapura, Bali 01735",Tebingtinggi,Kalimantan Utara,04745,+62 (0104) 803-8254,2004-06-12,Perempuan,Nonaktif
+44,Natalia Lestari,"Jl. Setiabudhi No. 73, Banda Aceh, Sumatera Selatan 13256",Meulaboh,Sulawesi Tengah,45333,083 477 6912,1947-12-01,Perempuan,Aktif
+45,Eman Hardiansyah,"Gg. Laswi No. 851, Salatiga, Jawa Barat 46802",Banda Aceh,Papua,46718,(0335) 621 2023,1998-09-15,Laki-laki,Aktif
+46,Heryanto Hastuti,"Jl. Sadang Serang No. 74, Banda Aceh, SU 15768",Surabaya,Kalimantan Utara,15168,+62 (869) 842-0400,1990-06-26,Perempuan,Nonaktif
+47,Rama Nuraini,"Jalan Sukabumi No. 831, Manado, NB 31064",Pasuruan,Kepulauan Bangka Belitung,11398,+62-204-794-4613,1967-01-09,Laki-laki,Nonaktif
+48,"R.M. Galih Waluyo, S.Pt","Jl. Dipenogoro No. 979, Salatiga, Bengkulu 69922",Pangkalpinang,Maluku,10951,(0058) 291-1723,1974-06-17,Laki-laki,Nonaktif
+49,"Dr. Rini Rahmawati, S.H.","Gang Suryakencana No. 776, Sabang, KR 44724",Batam,Kalimantan Barat,39318,(009) 272-7311,1994-03-13,Laki-laki,Aktif
+50,Cager Handayani,"Jl. Cikutra Timur No. 8, Tomohon, Jawa Tengah 93725",Serang,Jawa Barat,00881,+62 (976) 886-1137,1988-03-09,Perempuan,Aktif
+51,Galih Nurdiyanti,"Gang Ciwastra No. 0, Jayapura, Sulawesi Tengah 02608",Sawahlunto,Jambi,51960,+62 (049) 766 0693,1949-03-02,Perempuan,Aktif
+52,Ophelia Maheswara,"Jalan Ahmad Dahlan No. 1, Mataram, Sumatera Selatan 43876",Tegal,Nusa Tenggara Timur,20490,+62 (38) 101-8131,1954-05-15,Perempuan,Nonaktif
+53,Adika Setiawan,"Gg. S. Parman No. 88, Lhokseumawe, DI Yogyakarta 58487",Solok,DKI Jakarta,36256,+62-0817-464-6170,1989-01-17,Laki-laki,Aktif
+54,Ifa Sirait,"Jalan Cikutra Timur No. 10, Jambi, SB 30541",Tangerang,Kalimantan Utara,28237,+62-0916-332-0541,2005-01-28,Perempuan,Aktif
+55,"KH. Perkasa Riyanti, M.Pd","Gg. Ciwastra No. 46, Probolinggo, SU 43313",Makassar,Sumatera Utara,89220,+62 (413) 504-1961,1950-01-29,Perempuan,Nonaktif
+56,Puti Rika Dongoran,"Gang BKR No. 8, Cilegon, BT 62905",Probolinggo,Kepulauan Bangka Belitung,39832,(0135) 193-9879,2006-01-08,Perempuan,Aktif
+57,Mulyono Widiastuti,"Jalan Wonoayu No. 762, Batam, Nusa Tenggara Timur 02115",Depok,Kalimantan Utara,46971,089 065 2822,1980-12-16,Laki-laki,Aktif
+58,Drs. Raden Maryadi,"Gang Abdul Muis No. 46, Bekasi, KR 81225",Gorontalo,Sulawesi Tengah,43836,+62 (287) 646 9514,1972-04-07,Laki-laki,Aktif
+59,"Hj. Salwa Narpati, M.TI.","Gang Monginsidi No. 08, Bau-Bau, KU 04976",Manado,Maluku,39488,(0786) 229-3059,1947-03-09,Perempuan,Nonaktif
+60,Cici Sihombing,"Jl. Lembong No. 914, Mojokerto, Nusa Tenggara Barat 75772",Meulaboh,Jawa Tengah,00963,+62 (091) 523-7491,1957-10-06,Perempuan,Aktif
+61,Icha Wasita,"Jalan Setiabudhi No. 192, Kota Administrasi Jakarta Timur, JK 86067",Denpasar,Jawa Tengah,71140,(002) 600 1938,1964-02-06,Laki-laki,Aktif
+62,Hani Melani,"Jl. Ciumbuleuit No. 133, Pekanbaru, Kalimantan Timur 55109",Purwokerto,Sulawesi Utara,84848,(063) 043-4831,1986-05-17,Laki-laki,Nonaktif
+63,Clara Agustina,"Gang S. Parman No. 78, Gorontalo, KB 04013",Depok,Riau,14262,+62 (493) 217-3502,1972-10-21,Laki-laki,Aktif
+64,Mahmud Aryani,"Gg. Monginsidi No. 6, Kota Administrasi Jakarta Barat, Papua Barat 26574",Tual,Gorontalo,02859,+62 (94) 821-6303,1989-06-02,Laki-laki,Aktif
+65,Dr. Amelia Astuti,"Jalan Peta No. 801, Denpasar, Sulawesi Selatan 25775",Pematangsiantar,Nusa Tenggara Timur,15979,+62-046-567-6613,1958-10-24,Perempuan,Aktif
+66,KH. Karsana Rahayu,"Jalan Kendalsari No. 982, Mataram, MU 28079",Jayapura,Aceh,70223,+62 (60) 352 8431,1952-04-10,Perempuan,Nonaktif
+67,R.M. Tasdik Napitupulu,"Gg. Merdeka No. 5, Singkawang, PA 88875",Tanjungpinang,Jawa Tengah,15692,(0013) 038-4932,1956-04-15,Laki-laki,Nonaktif
+68,"dr. Anom Aryani, S.Psi","Gang Bangka Raya No. 483, Yogyakarta, Sumatera Selatan 55039",Parepare,Sumatera Barat,81619,(0418) 064 2859,1992-01-24,Laki-laki,Nonaktif
+69,dr. Ridwan Wacana,"Jalan Ciwastra No. 7, Medan, BA 35748",Solok,DKI Jakarta,20134,+62-060-607-7332,1958-02-01,Perempuan,Nonaktif
+70,Wani Jailani,"Jl. Asia Afrika No. 035, Samarinda, GO 73511",Cimahi,Kalimantan Selatan,92158,+62 (005) 540-5447,1970-02-25,Laki-laki,Nonaktif
+71,dr. Victoria Pradipta,"Gang Stasiun Wonokromo No. 6, Kotamobagu, Riau 90783",Pekalongan,Sulawesi Selatan,37636,+62 (78) 157 8016,2001-03-17,Laki-laki,Nonaktif
+72,Dalimin Setiawan,"Jl. S. Parman No. 07, Subulussalam, Kepulauan Bangka Belitung 23125",Salatiga,Riau,46062,+62 (13) 982-6508,2006-02-06,Perempuan,Aktif
+73,Dt. Baktiadi Mangunsong,"Jl. Kiaracondong No. 191, Tegal, SR 60769",Banjarbaru,Maluku Utara,96786,(017) 664-2470,1951-12-17,Laki-laki,Aktif
+74,KH. Jail Hardiansyah,"Gg. Rajawali Barat No. 07, Bima, SS 82429",Pekalongan,Kepulauan Bangka Belitung,76459,+62 (001) 370-3119,1949-01-16,Laki-laki,Nonaktif
+75,"Safina Pudjiastuti, S.Pd","Gang Rajawali Timur No. 01, Langsa, Papua Barat 34163",Manado,Sumatera Selatan,67403,+62-0749-068-6871,1975-01-31,Laki-laki,Nonaktif
+76,Cahyadi Samosir,"Jalan Gardujati No. 17, Purwokerto, Nusa Tenggara Barat 84469",Medan,Sulawesi Tenggara,58897,+62-61-483-3882,1945-03-10,Perempuan,Aktif
+77,Bagus Gunarto,"Jalan Yos Sudarso No. 53, Solok, SN 19343",Medan,Sulawesi Barat,89579,+62 (886) 690 9335,1985-01-22,Laki-laki,Nonaktif
+78,Paulin Agustina,"Gg. Indragiri No. 360, Bontang, Sumatera Barat 61232",Tangerang Selatan,Kalimantan Utara,81608,(0724) 924 5637,1995-04-11,Laki-laki,Aktif
+79,Hari Farida,"Jalan Dipatiukur No. 399, Langsa, JI 07804",Kota Administrasi Jakarta Selatan,Nusa Tenggara Barat,15554,0816790777,2003-09-03,Perempuan,Nonaktif
+80,Lantar Fujiati,"Jalan Moch. Toha No. 788, Jayapura, Kepulauan Bangka Belitung 99179",Bitung,Kalimantan Tengah,11053,+62 (38) 573 8318,1952-07-04,Laki-laki,Nonaktif
+81,Bakiman Yulianti,"Jl. R.E Martadinata No. 2, Bogor, KI 15139",Kota Administrasi Jakarta Timur,Papua,44323,(0526) 541 9870,1995-07-29,Perempuan,Nonaktif
+82,Puti Hassanah,"Jl. Cempaka No. 40, Tebingtinggi, KT 55766",Prabumulih,Sumatera Barat,49917,+62 (0502) 208 9981,2006-05-09,Laki-laki,Aktif
+83,Putri Melani,"Jl. Kutisari Selatan No. 6, Pekanbaru, Maluku 10991",Madiun,Kalimantan Tengah,78966,+62 (04) 504-2186,1985-09-30,Perempuan,Aktif
+84,Dr. Lasmono Samosir,"Jl. Sukabumi No. 12, Bontang, Bali 61933",Semarang,Kepulauan Riau,31281,+62 (69) 166-8572,1948-06-01,Laki-laki,Aktif
+85,Lidya Kuswandari,"Gg. Ahmad Dahlan No. 31, Bukittinggi, Riau 16678",Sungai Penuh,Aceh,94500,+62 (0983) 703-4193,1973-02-13,Laki-laki,Nonaktif
+86,Jatmiko Hutagalung,"Jl. Dr. Djunjunan No. 23, Kota Administrasi Jakarta Pusat, JT 84151",Kota Administrasi Jakarta Selatan,Nusa Tenggara Timur,03093,0875456733,2001-02-06,Perempuan,Nonaktif
+87,Gatra Sudiati,"Gang Ahmad Yani No. 52, Dumai, Papua Barat 23359",Palu,DKI Jakarta,59446,+62-0192-477-6158,1965-09-05,Laki-laki,Aktif
+88,Gamanto Sihombing,"Gg. Dipenogoro No. 0, Kediri, Aceh 14834",Madiun,Bengkulu,77766,+62-31-507-9431,1968-07-23,Perempuan,Aktif
+89,Rahmi Ardianto,"Jalan Kebonjati No. 9, Kendari, Kalimantan Tengah 45146",Pematangsiantar,Maluku Utara,30777,+62 (009) 377-9263,2004-02-24,Laki-laki,Aktif
+90,"Drs. Rahmi Haryanto, M.TI.","Gang Kebonjati No. 1, Langsa, Sumatera Selatan 20816",Cilegon,Gorontalo,95431,086 295 7647,1997-06-26,Perempuan,Nonaktif
+91,Yani Rahimah,"Gg. Cikapayang No. 898, Makassar, Kepulauan Bangka Belitung 03859",Metro,Nusa Tenggara Timur,62492,+62 (0083) 129 1371,1948-05-30,Perempuan,Nonaktif
+92,Tgk. Kairav Yulianti,"Gg. Pelajar Pejuang No. 9, Magelang, Papua Barat 86683",Solok,Kalimantan Tengah,42004,088 914 5312,1985-12-21,Perempuan,Nonaktif
+93,Cemplunk Wastuti,"Gg. Monginsidi No. 426, Mataram, Kalimantan Tengah 85552",Magelang,Sumatera Utara,34861,+62 (23) 554-9462,1959-02-23,Laki-laki,Nonaktif
+94,Ophelia Megantara,"Gang Rungkut Industri No. 099, Samarinda, SU 64107",Bandar Lampung,Nusa Tenggara Timur,01463,+62-46-905-7468,1998-08-10,Perempuan,Aktif
+95,Jane Suartini,"Gang S. Parman No. 9, Tarakan, ST 79428",Sungai Penuh,DI Yogyakarta,24509,+62 (060) 594 8197,1983-08-03,Perempuan,Aktif
+96,dr. Ami Suwarno,"Gang Suniaraja No. 0, Palembang, Sulawesi Barat 58855",Kota Administrasi Jakarta Selatan,Jawa Barat,82664,(0158) 505 5884,2002-03-15,Laki-laki,Aktif
+97,Anastasia Hardiansyah,"Jalan Laswi No. 487, Sawahlunto, Bengkulu 33761",Ternate,Sulawesi Tengah,24322,+62 (039) 796 8067,1983-02-03,Perempuan,Aktif
+98,"R.A. Hana Pangestu, S.Psi","Jl. R.E Martadinata No. 91, Binjai, Kalimantan Timur 61323",Ambon,DI Yogyakarta,02484,+62 (351) 596 8484,1951-06-15,Perempuan,Aktif
+99,Muni Hartati,"Jalan Pasir Koja No. 87, Sukabumi, SG 93359",Solok,Bengkulu,05344,+62 (0759) 951 0647,1961-06-28,Laki-laki,Aktif
+100,"R. Adika Gunarto, M.M.","Jl. Gegerkalong Hilir No. 1, Kota Administrasi Jakarta Selatan, Sulawesi Barat 21913",Madiun,Kalimantan Utara,80802,(0364) 452 5310,1976-01-26,Laki-laki,Aktif
+101,"Mursita Pudjiastuti, S.Ked","Gang Kapten Muslihat No. 537, Madiun, Jawa Barat 56529",Bengkulu,Kalimantan Selatan,82951,+62-0244-733-5805,1981-09-24,Laki-laki,Nonaktif
+102,Jessica Aryani,"Gang Sadang Serang No. 118, Makassar, SS 98036",Makassar,Kalimantan Tengah,78919,+62 (93) 126-7516,1952-05-25,Laki-laki,Aktif
+103,Timbul Prayoga,"Jl. Wonoayu No. 49, Madiun, KB 64240",Probolinggo,Kalimantan Barat,78849,(0604) 637 1029,1956-01-13,Perempuan,Aktif
+104,Alambana Purnawati,"Jalan KH Amin Jasuta No. 7, Lhokseumawe, BT 60395",Cimahi,Gorontalo,43991,(0635) 472 1768,1992-09-24,Perempuan,Nonaktif
+105,"Emong Hakim, M.Pd","Gang Merdeka No. 4, Madiun, Nusa Tenggara Timur 11854",Metro,Papua Barat,19283,+62-053-803-1669,1971-09-05,Perempuan,Nonaktif
+106,Maryadi Samosir,"Gg. Sentot Alibasa No. 1, Kota Administrasi Jakarta Timur, BB 93354",Meulaboh,Kepulauan Bangka Belitung,37435,+62 (232) 083 9993,1983-10-05,Perempuan,Aktif
+107,Kayla Purnawati,"Gg. Ir. H. Djuanda No. 41, Depok, SS 39406",Tarakan,DKI Jakarta,50033,+62-099-038-7460,1966-11-29,Laki-laki,Aktif
+108,Jarwa Hidayanto,"Jl. Lembong No. 82, Mojokerto, KB 61364",Semarang,Kalimantan Timur,82889,085 427 2978,1981-02-03,Laki-laki,Aktif
+109,Gatra Yuniar,"Jalan Peta No. 84, Kota Administrasi Jakarta Utara, SU 23484",Meulaboh,Kalimantan Tengah,06040,(082) 863-7171,1971-02-12,Perempuan,Nonaktif
+110,"Puti Zalindra Napitupulu, S.Gz","Gg. Joyoboyo No. 0, Subulussalam, Bali 15979",Sabang,Maluku Utara,53621,+62 (0799) 761-0707,1972-11-18,Perempuan,Nonaktif
+111,Asman Halim,"Gang Asia Afrika No. 878, Manado, Aceh 33886",Sabang,Sulawesi Barat,26194,+62 (073) 951-4693,1960-08-28,Perempuan,Nonaktif
+112,"T. Harjaya Rahayu, S.E.","Jl. Jamika No. 702, Madiun, GO 29285",Tasikmalaya,Maluku Utara,84402,+62-912-146-0252,2001-09-07,Laki-laki,Aktif
+113,Maryanto Ramadan,"Gang Kutisari Selatan No. 13, Binjai, MU 10673",Madiun,Nusa Tenggara Timur,80622,+62 (61) 523 8904,1954-09-03,Perempuan,Nonaktif
+114,Paulin Nainggolan,"Jalan Joyoboyo No. 0, Bandar Lampung, KI 58040",Kendari,Sumatera Utara,10787,+62 (252) 515-7098,1993-10-19,Laki-laki,Nonaktif
+115,Olivia Uwais,"Jl. Indragiri No. 3, Surabaya, Nusa Tenggara Barat 40051",Bau-Bau,Bengkulu,40232,+62 (040) 135 3814,1988-11-11,Laki-laki,Nonaktif
+116,Kezia Nababan,"Jl. Ahmad Dahlan No. 27, Mataram, JI 64561",Palembang,Riau,52330,+62 (080) 593-9419,1971-09-13,Laki-laki,Aktif
+117,Karma Yuliarti,"Jl. Peta No. 5, Tasikmalaya, Jawa Tengah 89308",Manado,Jawa Timur,19389,+62 (175) 316-4404,1993-07-10,Perempuan,Nonaktif
+118,Damu Yuniar,"Jalan Suryakencana No. 609, Padang, Lampung 31882",Padang Sidempuan,Maluku Utara,80253,+62 (0321) 749-1335,1986-10-29,Laki-laki,Aktif
+119,"Olga Mayasari, S.Farm","Gg. Pelajar Pejuang No. 53, Depok, Jambi 91957",Kota Administrasi Jakarta Barat,Kepulauan Riau,17297,+62-0088-103-0897,1968-10-07,Perempuan,Nonaktif
+120,"Viman Pratiwi, M.Pd","Gg. Moch. Ramdan No. 9, Denpasar, KT 36196",Batam,Papua Barat,88737,087 403 2591,1969-08-26,Laki-laki,Aktif
+121,Nurul Aryani,"Gg. Rajawali Barat No. 150, Balikpapan, PB 35041",Malang,DKI Jakarta,79327,0803964732,1995-10-17,Laki-laki,Nonaktif
+122,Ani Agustina,"Gg. Jend. Sudirman No. 758, Payakumbuh, KS 69777",Payakumbuh,Kalimantan Barat,12076,+62-022-152-9469,1997-10-14,Laki-laki,Nonaktif
+123,Banara Winarsih,"Jl. Lembong No. 89, Tasikmalaya, Bali 73040",Bandung,Maluku Utara,86763,+62 (214) 983 3555,1957-05-12,Perempuan,Nonaktif
+124,Ida Megantara,"Gg. Dipatiukur No. 501, Kota Administrasi Jakarta Selatan, KT 89889",Lubuklinggau,Jawa Timur,49106,+62 (003) 033-3820,2002-06-03,Laki-laki,Aktif
+125,Gilang Saragih,"Gg. Tubagus Ismail No. 0, Sungai Penuh, LA 61491",Kota Administrasi Jakarta Pusat,Sulawesi Barat,49693,+62-85-978-6676,1985-10-16,Perempuan,Aktif
+126,Kamidin Mansur,"Gang Veteran No. 41, Lubuklinggau, GO 83301",Salatiga,Sulawesi Selatan,94550,+62-52-004-0936,2003-03-21,Perempuan,Nonaktif
+127,Siska Permata,"Jl. Pasir Koja No. 8, Bogor, BB 24343",Balikpapan,Kalimantan Barat,39994,(0633) 458-0996,2006-01-31,Laki-laki,Nonaktif
+128,Yulia Namaga,"Gg. Indragiri No. 75, Cimahi, ST 11382",Bitung,Maluku Utara,89279,+62-0420-287-0466,1975-04-14,Perempuan,Nonaktif
+129,Raharja Tamba,"Gg. Kutai No. 3, Kediri, SG 40236",Bandung,Maluku Utara,02327,+62 (35) 067 6975,2004-10-24,Laki-laki,Aktif
+130,Marwata Samosir,"Gg. Jend. A. Yani No. 06, Pekalongan, Sulawesi Utara 58823",Cirebon,Sulawesi Barat,95844,+62-0838-284-3443,2000-01-01,Laki-laki,Aktif
+131,R.A. Ciaobella Adriansyah,"Jalan Rajawali Timur No. 14, Tasikmalaya, DI Yogyakarta 07191",Kota Administrasi Jakarta Timur,Sumatera Utara,15332,+62 (91) 384-1164,1978-04-04,Perempuan,Nonaktif
+132,KH. Gara Nainggolan,"Jl. Cikutra Timur No. 33, Padang, Aceh 54115",Madiun,Kalimantan Tengah,49699,+62-84-349-2254,1956-04-14,Perempuan,Nonaktif
+133,Raden Zulkarnain,"Gang Cihampelas No. 6, Tebingtinggi, Sumatera Utara 18840",Kotamobagu,Banten,17886,(0826) 107-3020,1963-07-18,Laki-laki,Nonaktif
+134,Hilda Siregar,"Gg. Pasir Koja No. 52, Sibolga, Maluku Utara 41224",Ternate,Banten,88874,+62-0447-687-8603,1968-09-11,Perempuan,Nonaktif
+135,"Yono Yulianti, S.Farm","Jl. BKR No. 2, Kediri, Jawa Timur 34863",Banda Aceh,Sulawesi Tenggara,26331,(040) 142 6411,1994-08-19,Laki-laki,Aktif
+136,"Paris Prakasa, S.Kom","Gang Gardujati No. 842, Payakumbuh, RI 56079",Padangpanjang,DKI Jakarta,40885,+62 (0945) 656-7082,1990-11-20,Laki-laki,Aktif
+137,Mahmud Yulianti,"Jl. Dipatiukur No. 840, Kota Administrasi Jakarta Timur, Sulawesi Tengah 77186",Padang,Kalimantan Utara,13608,(0307) 618 2089,1987-09-04,Perempuan,Aktif
+138,Karsa Lestari,"Gg. Gegerkalong Hilir No. 995, Batam, DI Yogyakarta 77554",Tomohon,Nusa Tenggara Timur,77088,+62 (061) 061 8559,2001-05-06,Perempuan,Nonaktif
+139,"Irnanto Simanjuntak, S.T.","Gg. Peta No. 97, Kota Administrasi Jakarta Utara, Sulawesi Barat 50941",Langsa,Maluku Utara,57021,+62 (058) 765-7125,1945-02-05,Perempuan,Nonaktif
+140,Jaeman Handayani,"Gang PHH. Mustofa No. 9, Probolinggo, Bali 46064",Lhokseumawe,Kalimantan Tengah,11751,+62 (472) 906 7503,1962-01-28,Laki-laki,Aktif
+141,"Dr. Aurora Sudiati, M.Ak","Jl. Sentot Alibasa No. 505, Kupang, Jawa Tengah 48472",Kota Administrasi Jakarta Timur,Maluku,06900,+62 (0086) 257-8922,1968-04-18,Laki-laki,Nonaktif
+142,Wulan Oktaviani,"Gg. Otto Iskandardinata No. 56, Surakarta, BB 65562",Mojokerto,Kepulauan Bangka Belitung,03514,+62 (496) 001 0835,1983-05-01,Laki-laki,Aktif
+143,KH. Agus Suryono,"Gang Jend. A. Yani No. 63, Malang, Kalimantan Barat 72760",Mataram,Sulawesi Tenggara,67019,+62-036-887-2694,1985-01-19,Laki-laki,Nonaktif
+144,Tari Handayani,"Jalan Monginsidi No. 3, Singkawang, JK 31206",Bitung,Kepulauan Bangka Belitung,03495,+62 (0883) 030-4918,1974-08-27,Laki-laki,Aktif
+145,Asmianto Mayasari,"Jalan Setiabudhi No. 36, Cirebon, Kalimantan Utara 59367",Bitung,Jambi,56260,+62-246-905-1857,1987-04-12,Perempuan,Nonaktif
+146,Candra Hasanah,"Gang Cihampelas No. 097, Balikpapan, JI 53648",Sibolga,Banten,32644,+62 (039) 021-1378,1969-05-08,Perempuan,Nonaktif
+147,Purwadi Usamah,"Jalan Suniaraja No. 695, Sungai Penuh, Kepulauan Riau 78541",Denpasar,Kalimantan Barat,50483,+62 (0577) 697 5537,1980-09-13,Perempuan,Aktif
+148,"Naradi Novitasari, S.IP","Jl. Antapani Lama No. 1, Solok, Nusa Tenggara Timur 06917",Tangerang,Sumatera Utara,23475,082 274 1705,2003-05-02,Perempuan,Nonaktif
+149,Intan Mandala,"Jalan Raya Ujungberung No. 84, Sukabumi, Jambi 64618",Sabang,Sulawesi Tenggara,52984,+62 (613) 472 9827,1955-03-13,Perempuan,Aktif
+150,Ratna Haryanti,"Gang Antapani Lama No. 7, Malang, NB 59285",Bitung,Papua Barat,41615,+62-232-861-9532,1958-05-22,Laki-laki,Nonaktif
+151,Sutan Candra Pudjiastuti,"Jalan Ciumbuleuit No. 76, Singkawang, KR 47402",Solok,DI Yogyakarta,85487,088 817 2853,1949-02-11,Perempuan,Nonaktif
+152,Farah Saragih,"Gg. Cihampelas No. 02, Bandar Lampung, Nusa Tenggara Barat 58689",Kota Administrasi Jakarta Pusat,Bali,88122,+62 (0664) 359 4312,1972-11-09,Laki-laki,Aktif
+153,"Cakrabuana Narpati, M.M.","Jl. Suryakencana No. 7, Tangerang, SU 34396",Malang,Kalimantan Selatan,84913,(067) 387-9364,2001-04-14,Perempuan,Aktif
+154,"Hafshah Samosir, S.Kom","Jl. Erlangga No. 08, Sawahlunto, Kalimantan Timur 00166",Tangerang,Jawa Tengah,78071,+62 (76) 303-2456,2001-05-19,Perempuan,Aktif
+155,drg. Fitria Yulianti,"Gg. Cikutra Barat No. 522, Bukittinggi, MA 23588",Padang,Sumatera Barat,30458,0898385324,1980-11-21,Laki-laki,Aktif
+156,"Ibrahim Yulianti, S.IP","Gg. HOS. Cokroaminoto No. 40, Pangkalpinang, PA 81436",Singkawang,Kepulauan Riau,05049,0848139547,1977-04-25,Laki-laki,Nonaktif
+157,R.M. Prabowo Hidayat,"Jalan Kutisari Selatan No. 264, Salatiga, Sulawesi Tenggara 45385",Pematangsiantar,Banten,02045,+62 (53) 711 1847,1984-05-17,Laki-laki,Aktif
+158,"Uli Irawan, M.TI.","Gang Surapati No. 2, Palangkaraya, Banten 80562",Bandung,DI Yogyakarta,21293,(0452) 348-1806,1969-01-07,Perempuan,Aktif
+159,"R. Eva Wijayanti, S.Pt","Jl. Siliwangi No. 343, Pekalongan, AC 91620",Jayapura,Jawa Barat,29896,+62 (037) 227 6695,1977-01-09,Laki-laki,Aktif
+160,Aris Gunarto,"Jl. Rajawali Barat No. 61, Pangkalpinang, Jambi 99980",Payakumbuh,Gorontalo,73276,+62-34-583-7171,1949-02-25,Laki-laki,Aktif
+161,Ira Wijaya,"Jl. BKR No. 886, Palembang, Jawa Timur 39856",Cirebon,Jawa Barat,32895,(033) 738 9409,1963-09-16,Laki-laki,Aktif
+162,"R.A. Padmi Haryanto, S.Kom","Jalan Surapati No. 394, Padang Sidempuan, KT 77191",Binjai,Jawa Barat,63396,+62 (75) 498 0877,1968-11-07,Perempuan,Nonaktif
+163,Virman Hidayanto,"Gang M.T Haryono No. 90, Pekanbaru, BT 90241",Sawahlunto,Kalimantan Selatan,39046,+62-0288-904-6777,1958-01-01,Laki-laki,Nonaktif
+164,Chelsea Rajasa,"Jl. Asia Afrika No. 168, Bogor, Kepulauan Riau 49484",Manado,Kalimantan Selatan,44627,0819709388,1956-09-30,Laki-laki,Nonaktif
+165,Tami Maheswara,"Gg. Veteran No. 37, Padangpanjang, Jambi 94563",Subulussalam,DI Yogyakarta,64062,+62 (098) 829 8251,1996-01-21,Perempuan,Nonaktif
+166,"Usyi Sihombing, S.E.I","Gang M.T Haryono No. 8, Pontianak, Bengkulu 66810",Tangerang,DKI Jakarta,53839,+62-30-523-4368,1954-07-04,Perempuan,Aktif
+167,"Bakiono Namaga, S.Gz","Jl. Kutai No. 3, Banjarbaru, SN 39453",Palembang,Nusa Tenggara Timur,77689,+62 (66) 081-5996,1965-07-31,Perempuan,Nonaktif
+168,Yuni Rajata,"Gang Waringin No. 4, Cimahi, KI 56413",Kota Administrasi Jakarta Barat,Bengkulu,02654,084 793 4176,1947-08-10,Laki-laki,Nonaktif
+169,"Drs. Puji Hardiansyah, S.Gz","Jl. Jayawijaya No. 794, Bau-Bau, PA 99461",Medan,Lampung,87621,+62 (98) 184 3020,1966-12-24,Laki-laki,Nonaktif
+170,"Yulia Rahmawati, S.IP","Jalan Dipenogoro No. 041, Banjarmasin, SG 59562",Purwokerto,Papua,80114,+62-28-047-2883,1949-07-07,Laki-laki,Nonaktif
+171,Drs. Dina Wulandari,"Gg. Cikutra Timur No. 402, Kota Administrasi Jakarta Selatan, Papua 43196",Kediri,Sulawesi Selatan,83462,+62 (0067) 720-0122,1950-11-06,Laki-laki,Nonaktif
+172,R.A. Usyi Firgantoro,"Jl. Dipenogoro No. 581, Yogyakarta, PA 60982",Banjarbaru,Sumatera Utara,15775,+62 (082) 155 1694,1977-07-10,Perempuan,Aktif
+173,Putri Waskita,"Jl. Dipenogoro No. 27, Lubuklinggau, Bali 52308",Banjarmasin,Kalimantan Tengah,80597,+62-0434-753-0275,1992-07-31,Laki-laki,Nonaktif
+174,KH. Taufik Wulandari,"Gg. Ahmad Yani No. 564, Denpasar, MU 44424",Tasikmalaya,Bengkulu,34530,+62 (395) 118-6171,2005-01-11,Laki-laki,Nonaktif
+175,Vera Siregar,"Gg. Indragiri No. 7, Serang, MU 92142",Palangkaraya,Papua,71702,+62 (352) 632 0983,1960-03-04,Perempuan,Aktif
+176,"Tgk. Puput Winarsih, S.E.","Gg. Jayawijaya No. 619, Tangerang, BA 09778",Bima,Gorontalo,11416,(011) 523-5207,1988-06-09,Perempuan,Nonaktif
+177,Farah Lailasari,"Gang R.E Martadinata No. 851, Jayapura, Gorontalo 22450",Metro,Riau,62434,+62 (559) 025 9408,1965-09-08,Laki-laki,Nonaktif
+178,Maras Sinaga,"Jalan Soekarno Hatta No. 95, Kota Administrasi Jakarta Pusat, Sulawesi Utara 88363",Padangpanjang,Bengkulu,52352,+62 (0014) 162 0839,1994-03-11,Laki-laki,Nonaktif
+179,"Raina Rajata, M.M.","Jalan Jend. Sudirman No. 1, Surakarta, Jawa Tengah 18723",Tebingtinggi,Kalimantan Barat,65812,+62 (901) 136-6380,1991-07-14,Perempuan,Aktif
+180,dr. Uli Uyainah,"Jl. Asia Afrika No. 10, Surabaya, Jambi 78088",Banjarbaru,Kalimantan Tengah,90304,+62 (050) 809-9047,1963-07-22,Laki-laki,Nonaktif
+181,Rahman Wijaya,"Jl. Kutai No. 999, Kota Administrasi Jakarta Selatan, KT 77515",Binjai,Sulawesi Tenggara,30518,+62-46-206-8904,1961-03-12,Laki-laki,Nonaktif
+182,"Tgk. Tiara Padmasari, S.Gz","Gg. Setiabudhi No. 7, Kota Administrasi Jakarta Pusat, Bali 79392",Sawahlunto,Kalimantan Timur,53687,(075) 979-1546,1947-12-19,Laki-laki,Aktif
+183,"Ir. Purwanto Sinaga, M.M.","Gg. W.R. Supratman No. 608, Banjarmasin, RI 71529",Tegal,Nusa Tenggara Timur,75269,+62 (47) 198 8234,1986-11-27,Laki-laki,Nonaktif
+184,Sadina Uwais,"Jalan Antapani Lama No. 750, Bau-Bau, JK 33535",Surakarta,Jawa Tengah,19786,0849729074,1964-09-20,Laki-laki,Aktif
+185,Saiful Napitupulu,"Gg. Dipatiukur No. 011, Banjarmasin, YO 07268",Kota Administrasi Jakarta Selatan,Kalimantan Utara,06803,+62 (845) 132 2725,1963-10-06,Laki-laki,Nonaktif
+186,"Dr. Ajeng Hakim, S.T.","Gg. Ahmad Dahlan No. 10, Makassar, GO 14444",Tanjungpinang,Bengkulu,32023,+62-219-318-8530,1982-01-02,Laki-laki,Aktif
+187,"R. Limar Hidayanto, S.Psi","Gg. Kutai No. 832, Bau-Bau, PB 72026",Malang,DKI Jakarta,57566,+62-062-130-2944,2000-07-25,Perempuan,Nonaktif
+188,Karya Irawan,"Jalan Rungkut Industri No. 7, Cilegon, BE 86815",Binjai,Sulawesi Utara,17000,(018) 098 6255,1967-02-08,Laki-laki,Aktif
+189,KH. Jarwadi Wibisono,"Gg. Ahmad Yani No. 555, Prabumulih, Sulawesi Utara 16093",Prabumulih,Sumatera Barat,73588,+62 (028) 503-9290,2006-01-01,Laki-laki,Nonaktif
+190,"Padma Maheswara, S.I.Kom","Jalan Moch. Ramdan No. 191, Bekasi, Papua 77259",Bau-Bau,Nusa Tenggara Barat,10232,+62 (16) 691-1720,2004-03-27,Perempuan,Nonaktif
+191,"Tgk. Farhunnisa Yolanda, M.Farm","Jl. Cempaka No. 012, Bandung, ST 52624",Makassar,Kalimantan Selatan,65622,+62-0767-544-0191,1955-07-31,Laki-laki,Aktif
+192,Hj. Shania Susanti,"Gang Pasteur No. 91, Cilegon, Sumatera Utara 15523",Sorong,Maluku,83878,+62 (23) 602 1116,1958-03-06,Laki-laki,Aktif
+193,Cut Zizi Tarihoran,"Jalan Stasiun Wonokromo No. 7, Kota Administrasi Jakarta Timur, Banten 73798",Dumai,Sulawesi Barat,23796,+62-577-799-7085,1965-09-29,Perempuan,Nonaktif
+194,"Dr. Ani Nurdiyanti, S.E.","Gang Moch. Toha No. 3, Tanjungpinang, SG 69784",Tasikmalaya,Jawa Tengah,44379,+62 (0869) 571 8857,1996-07-27,Perempuan,Nonaktif
+195,"Drs. Mursinin Wastuti, S.Pd","Jl. Kutisari Selatan No. 5, Pasuruan, MU 12181",Pasuruan,Maluku,91915,+62 (56) 493-1691,1969-02-11,Perempuan,Aktif
+196,Rahmi Tamba,"Jalan Laswi No. 8, Bau-Bau, BB 32562",Tanjungpinang,Nusa Tenggara Barat,92638,+62 (0777) 790-0234,2001-03-08,Laki-laki,Nonaktif
+197,"Jaswadi Situmorang, S.Pt","Gg. Cempaka No. 9, Bau-Bau, BE 80354",Tanjungbalai,Jawa Tengah,46354,+62 (0520) 328 3128,1946-10-05,Perempuan,Aktif
+198,Michelle Puspasari,"Gang Kapten Muslihat No. 67, Medan, YO 56450",Batu,Sulawesi Selatan,59052,+62-0631-054-9875,1949-10-18,Perempuan,Nonaktif
+199,"dr. Puji Wijayanti, S.IP","Gang Cikutra Timur No. 29, Kotamobagu, SR 81970",Bengkulu,Papua Barat,02183,(085) 472 5498,1959-03-31,Laki-laki,Nonaktif
+200,Vega Rajasa,"Jl. Rajiman No. 4, Bau-Bau, MU 13010",Semarang,DKI Jakarta,54502,081 008 3391,1967-05-04,Perempuan,Aktif
+201,"Puti Juli Yulianti, S.E.I","Gang Ciwastra No. 85, Subulussalam, GO 12488",Metro,Jawa Timur,34011,+62 (0353) 462-4339,1986-09-06,Laki-laki,Aktif
+202,Rafi Wulandari,"Gg. Waringin No. 45, Jayapura, BE 31025",Tangerang Selatan,Sumatera Barat,51303,+62 (50) 535 4773,1984-10-04,Laki-laki,Nonaktif
+203,Ella Purwanti,"Jalan Waringin No. 3, Palu, Sumatera Selatan 63920",Depok,Riau,33639,+62-461-690-0946,1962-04-17,Laki-laki,Nonaktif
+204,Humaira Kusmawati,"Gg. Pelajar Pejuang No. 801, Tegal, RI 91451",Sungai Penuh,Jambi,72100,+62-166-382-5163,1964-03-04,Perempuan,Nonaktif
+205,"R. Ophelia Nuraini, S.Kom","Jl. Astana Anyar No. 0, Probolinggo, JB 41949",Malang,Sulawesi Utara,90460,(075) 328 3590,1963-04-08,Laki-laki,Aktif
+206,Raditya Andriani,"Jalan S. Parman No. 82, Bogor, BA 08582",Tidore Kepulauan,Kalimantan Barat,44931,(0236) 457-7148,1984-10-06,Perempuan,Aktif
+207,Olivia Padmasari,"Jl. Cikapayang No. 36, Subulussalam, Kalimantan Utara 34336",Lubuklinggau,Jawa Barat,84456,(075) 971 0405,1960-05-08,Perempuan,Nonaktif
+208,"R.A. Laras Lailasari, S.I.Kom","Jl. Cikutra Barat No. 2, Pasuruan, Sulawesi Tenggara 02379",Mojokerto,Papua Barat,39759,+62 (632) 978-6247,1970-03-24,Laki-laki,Nonaktif
+209,"Adhiarja Waskita, M.TI.","Jl. Ciwastra No. 290, Sungai Penuh, JB 00433",Tangerang Selatan,Sulawesi Tengah,12575,(0620) 906-0676,1970-01-15,Laki-laki,Aktif
+210,Gadang Situmorang,"Gg. Moch. Toha No. 33, Lhokseumawe, Kepulauan Riau 40274",Meulaboh,Sulawesi Barat,73682,+62 (88) 202-2940,1975-12-18,Perempuan,Nonaktif
+211,"Ira Permadi, S.E.I","Gg. Suryakencana No. 8, Serang, RI 48404",Kupang,Nusa Tenggara Barat,45181,+62 (25) 160 9747,1971-11-16,Laki-laki,Nonaktif
+212,Cakrabirawa Puspasari,"Gg. Gegerkalong Hilir No. 6, Sawahlunto, Sumatera Utara 56351",Pangkalpinang,Maluku,60724,+62-0994-633-7329,1981-06-17,Laki-laki,Aktif
+213,"Hj. Patricia Irawan, M.TI.","Gang Joyoboyo No. 016, Bukittinggi, Sumatera Barat 36661",Dumai,DI Yogyakarta,05805,+62 (003) 995 8802,2006-01-23,Laki-laki,Aktif
+214,Ana Anggriawan,"Gang Erlangga No. 135, Palembang, Maluku 57538",Serang,Jawa Timur,49409,(0384) 703-3504,1997-09-27,Laki-laki,Aktif
+215,"Puti Eka Suwarno, M.M.","Jl. Pelajar Pejuang No. 8, Sabang, KT 01825",Medan,Papua Barat,80349,+62 (032) 454-6246,2003-10-05,Laki-laki,Aktif
+216,Chandra Santoso,"Jl. Ahmad Dahlan No. 0, Bau-Bau, KR 66959",Banda Aceh,Papua,54589,+62 (174) 396 9055,1983-04-04,Laki-laki,Nonaktif
+217,Olivia Nasyidah,"Jl. Jayawijaya No. 891, Pontianak, JA 91636",Bontang,Bali,96260,+62-014-431-7219,1951-04-08,Perempuan,Aktif
+218,Utama Simbolon,"Jl. Yos Sudarso No. 23, Tarakan, KB 97361",Sabang,Sulawesi Selatan,06984,+62-98-301-4230,1998-07-20,Perempuan,Aktif
+219,"Dr. Mila Irawan, M.M.","Gang Sukajadi No. 13, Pontianak, Gorontalo 67747",Metro,Nusa Tenggara Barat,76926,+62 (0468) 923-6534,1990-07-29,Perempuan,Nonaktif
+220,"Rangga Astuti, M.TI.","Jalan Otto Iskandardinata No. 379, Jambi, Kalimantan Tengah 42936",Ternate,Papua Barat,95224,+62 (898) 481-1882,1964-04-25,Laki-laki,Aktif
+221,"Sutan Baktianto Latupono, M.Ak","Jl. Abdul Muis No. 21, Tomohon, Sulawesi Barat 09302",Pagaralam,Bengkulu,33304,0884617136,1966-08-21,Perempuan,Aktif
+222,Nugraha Oktaviani,"Gang Pasteur No. 932, Tanjungbalai, ST 10646",Tidore Kepulauan,Jambi,33937,(058) 322-0050,1953-10-10,Laki-laki,Nonaktif
+223,Cemeti Gunawan,"Jl. Gardujati No. 39, Palopo, Bengkulu 56979",Balikpapan,Nusa Tenggara Timur,25385,+62 (86) 029 1546,1958-11-18,Laki-laki,Aktif
+224,Estiono Nugroho,"Jalan Ronggowarsito No. 409, Meulaboh, LA 87548",Sawahlunto,Gorontalo,54036,(059) 915 1332,1954-12-05,Laki-laki,Aktif
+225,Puti Ulva Gunawan,"Jl. Merdeka No. 92, Gorontalo, Maluku 87555",Cimahi,Sulawesi Selatan,67777,+62-0792-897-0876,1983-06-20,Laki-laki,Nonaktif
+226,"Tgk. Cindy Aryani, S.Psi","Gang Astana Anyar No. 88, Palu, NB 17692",Pontianak,Sulawesi Selatan,11813,0807377887,1981-05-07,Laki-laki,Nonaktif
+227,"Dt. Darsirah Yuniar, M.Kom.","Gg. KH Amin Jasuta No. 816, Kota Administrasi Jakarta Utara, Kalimantan Barat 86345",Sungai Penuh,Riau,49372,+62 (085) 806-0580,1956-07-19,Perempuan,Aktif
+228,Umar Handayani,"Jl. Tebet Barat Dalam No. 712, Pekalongan, BT 07100",Makassar,Lampung,90792,+62-11-613-5999,1965-02-21,Laki-laki,Aktif
+229,"Okta Suwarno, S.Sos","Jalan Ahmad Yani No. 7, Bima, Sulawesi Tenggara 36087",Tanjungpinang,Maluku,77784,+62-695-132-3404,1950-05-22,Laki-laki,Aktif
+230,Nova Halim,"Jl. Sadang Serang No. 93, Padangpanjang, SN 69332",Probolinggo,Bengkulu,02868,+62 (049) 015 6574,1984-05-09,Laki-laki,Nonaktif
+231,"Dr. Pardi Agustina, S.Psi","Jalan BKR No. 19, Magelang, Papua 36548",Pontianak,Sulawesi Barat,59545,(059) 698 8644,1973-01-16,Perempuan,Nonaktif
+232,Sadina Hastuti,"Gang Monginsidi No. 6, Padang, SG 92287",Jambi,Kalimantan Timur,09134,+62-75-664-8735,1973-07-13,Laki-laki,Aktif
+233,Paiman Dongoran,"Gg. Gardujati No. 4, Jambi, Sumatera Utara 86208",Mataram,Kepulauan Riau,62874,+62 (11) 612 9317,1953-08-17,Perempuan,Nonaktif
+234,"Caturangga Winarsih, M.Ak","Gang Moch. Toha No. 96, Surabaya, Sulawesi Tenggara 37969",Sukabumi,Aceh,68546,+62 (084) 484 0504,1974-11-04,Perempuan,Aktif
+235,Salimah Suryatmi,"Gang Waringin No. 163, Padang, Papua 26136",Tasikmalaya,Sulawesi Selatan,98997,+62 (438) 688 0689,2004-12-01,Laki-laki,Aktif
+236,Ir. Jasmin Nurdiyanti,"Gang Otto Iskandardinata No. 874, Sabang, DI Yogyakarta 23442",Kendari,Jawa Barat,49018,+62 (0987) 308-1609,1954-02-03,Perempuan,Aktif
+237,Talia Widiastuti,"Jalan Suniaraja No. 622, Bitung, GO 74230",Tomohon,Jawa Tengah,74343,+62 (30) 580 4760,2003-08-19,Perempuan,Aktif
+238,Mahmud Mahendra,"Jalan Dipatiukur No. 34, Surakarta, Sulawesi Barat 86526",Mojokerto,Nusa Tenggara Timur,77022,+62-082-198-0485,1949-10-07,Perempuan,Nonaktif
+239,Jumari Kusmawati,"Gang Cikutra Timur No. 39, Jambi, BT 10733",Sawahlunto,Sulawesi Tenggara,40179,(0797) 312-4152,1997-01-07,Laki-laki,Aktif
+240,Farhunnisa Uwais,"Jl. Ciumbuleuit No. 987, Tangerang Selatan, SS 57847",Sukabumi,DKI Jakarta,57278,+62 (037) 187-7179,1971-12-29,Laki-laki,Aktif
+241,Gawati Purnawati,"Gg. S. Parman No. 1, Sibolga, Maluku Utara 93335",Sabang,Sulawesi Tengah,91486,+62 (89) 153 7214,1973-07-05,Laki-laki,Nonaktif
+242,Hilda Kusumo,"Gang H.J Maemunah No. 7, Bandar Lampung, Lampung 98245",Serang,Sulawesi Tengah,59194,+62-308-247-8203,1975-08-26,Perempuan,Nonaktif
+243,Adinata Nashiruddin,"Gg. Ciumbuleuit No. 3, Makassar, SG 85666",Palembang,Aceh,30071,+62 (088) 078 6685,1986-12-24,Laki-laki,Nonaktif
+244,"Drs. Wulan Yuniar, M.Pd","Gang Asia Afrika No. 64, Kendari, Nusa Tenggara Barat 18383",Kota Administrasi Jakarta Pusat,Kepulauan Riau,71500,0849159867,1955-12-09,Laki-laki,Aktif
+245,"Hj. Cinta Fujiati, M.Farm","Jl. Kiaracondong No. 6, Langsa, Kalimantan Barat 26750",Palembang,Kepulauan Riau,33944,(0794) 866-0910,1950-05-04,Laki-laki,Nonaktif
+246,Rika Puspasari,"Jl. Suryakencana No. 834, Makassar, KR 55033",Kota Administrasi Jakarta Selatan,Papua Barat,38781,+62 (707) 853-6199,1991-06-28,Perempuan,Aktif
+247,T. Kasusra Suartini,"Gg. W.R. Supratman No. 09, Payakumbuh, BT 86254",Tangerang Selatan,Kepulauan Bangka Belitung,29246,081 837 4256,1954-12-28,Laki-laki,Nonaktif
+248,Jessica Situmorang,"Jl. Wonoayu No. 05, Meulaboh, MU 69923",Pasuruan,Nusa Tenggara Timur,50295,+62 (41) 753 7276,1959-08-03,Perempuan,Aktif
+249,"Taufik Mansur, S.IP","Jalan S. Parman No. 3, Tual, Sulawesi Barat 55988",Metro,Sulawesi Tenggara,09347,+62-757-479-8742,1975-03-30,Perempuan,Aktif
+250,Maya Prayoga,"Gang Setiabudhi No. 1, Bandar Lampung, GO 36418",Parepare,Papua Barat,08493,+62 (0810) 545-4572,1950-07-10,Perempuan,Aktif
+251,Dr. Baktianto Marbun,"Gg. Dipatiukur No. 5, Solok, Nusa Tenggara Barat 19856",Magelang,Jawa Barat,79749,0859209934,1976-04-16,Laki-laki,Nonaktif
+252,Garan Pratiwi,"Jl. Yos Sudarso No. 22, Malang, Sumatera Selatan 81914",Metro,Kepulauan Riau,72084,(048) 711-7312,1961-02-06,Laki-laki,Nonaktif
+253,Belinda Hakim,"Jalan Medokan Ayu No. 935, Bengkulu, Sumatera Selatan 90700",Sorong,Sulawesi Utara,67416,+62-868-243-4578,1972-08-28,Laki-laki,Aktif
+254,"dr. Wage Pranowo, S.I.Kom","Jl. Otto Iskandardinata No. 236, Tasikmalaya, SN 04840",Tanjungbalai,Jawa Timur,70935,+62 (778) 418 8226,1973-01-07,Perempuan,Aktif
+255,R. Irfan Maulana,"Jl. Gegerkalong Hilir No. 62, Jambi, SB 50873",Sungai Penuh,Aceh,60554,+62 (838) 435 8371,1955-02-08,Laki-laki,Aktif
+256,"Irwan Haryanti, S.E.I","Gg. Laswi No. 7, Manado, Papua 89071",Surabaya,Sumatera Utara,84361,+62 (91) 163-8483,2003-07-19,Laki-laki,Aktif
+257,Maida Firgantoro,"Jl. Ahmad Dahlan No. 96, Bau-Bau, KI 81007",Kotamobagu,Sulawesi Barat,24444,+62 (039) 135-2702,1989-12-07,Laki-laki,Aktif
+258,Kani Hariyah,"Gang Medokan Ayu No. 5, Pematangsiantar, Sumatera Selatan 10606",Bandar Lampung,Riau,46112,(028) 210-7518,1981-10-01,Perempuan,Nonaktif
+259,"Bala Pranowo, S.E.","Jl. Kutai No. 7, Bandung, Kalimantan Timur 79935",Lhokseumawe,Banten,26585,+62 (0594) 416 2124,1968-07-25,Perempuan,Aktif
+260,"Jelita Agustina, S.Pd","Jl. Jend. A. Yani No. 8, Padang Sidempuan, RI 65294",Semarang,Kepulauan Riau,30919,+62 (075) 174 9274,1970-03-12,Perempuan,Nonaktif
+261,"drg. Rika Wijaya, S.Pt","Gg. Gedebage Selatan No. 5, Mataram, SB 67626",Tarakan,Sumatera Barat,34265,+62 (048) 071-4195,2002-04-14,Perempuan,Nonaktif
+262,Opan Ardianto,"Jalan KH Amin Jasuta No. 2, Bekasi, Kepulauan Riau 14129",Tangerang,Nusa Tenggara Barat,62093,+62 (0656) 749-7194,1987-11-11,Perempuan,Aktif
+263,"Talia Wulandari, S.IP","Jl. M.T Haryono No. 4, Banjarbaru, PB 01590",Mataram,Sumatera Barat,84618,+62-010-348-7074,2006-04-13,Perempuan,Aktif
+264,"Irsad Permata, S.Kom","Gang Cempaka No. 146, Tangerang Selatan, SR 84077",Palu,Sulawesi Tengah,38988,+62 (037) 396 4497,1994-01-13,Perempuan,Nonaktif
+265,Mahdi Pudjiastuti,"Jalan Joyoboyo No. 2, Kendari, PB 63612",Ternate,Jawa Barat,55864,+62 (32) 344 7910,1959-12-13,Laki-laki,Aktif
+266,Marsudi Nuraini,"Gang Ahmad Yani No. 0, Kediri, JT 23179",Mataram,Jawa Barat,78525,+62-89-412-0140,2001-08-04,Laki-laki,Aktif
+267,Ajiman Prabowo,"Gang Sadang Serang No. 8, Binjai, Nusa Tenggara Timur 54945",Balikpapan,Jambi,81091,(0500) 485 4057,1965-12-05,Laki-laki,Aktif
+268,Almira Tarihoran,"Jl. Erlangga No. 44, Sukabumi, DKI Jakarta 10206",Kendari,Maluku Utara,44652,+62 (595) 053 6880,1979-09-27,Laki-laki,Nonaktif
+269,R. Yuliana Wijaya,"Jalan Jend. A. Yani No. 837, Bengkulu, PA 12371",Yogyakarta,Nusa Tenggara Barat,60154,+62-69-627-2334,1982-10-30,Laki-laki,Nonaktif
+270,Shakila Safitri,"Jl. Rumah Sakit No. 80, Purwokerto, BA 15520",Malang,Kepulauan Bangka Belitung,78031,+62 (0863) 552-7992,1996-09-20,Perempuan,Nonaktif
+271,Arsipatra Mayasari,"Gang Kapten Muslihat No. 17, Pekanbaru, SU 37659",Kota Administrasi Jakarta Pusat,Sulawesi Utara,00376,+62 (0937) 546 6082,1989-07-20,Perempuan,Aktif
+272,Aurora Tamba,"Jl. Astana Anyar No. 94, Pekanbaru, SG 19008",Solok,Nusa Tenggara Barat,09943,+62-0284-598-1155,1953-03-28,Laki-laki,Nonaktif
+273,"KH. Harsana Hasanah, M.Ak","Jalan Dr. Djunjunan No. 842, Bogor, Kalimantan Utara 01118",Kota Administrasi Jakarta Pusat,Sulawesi Tenggara,68228,(0655) 610 9686,1964-12-15,Perempuan,Nonaktif
+274,Mariadi Hakim,"Gang Abdul Muis No. 08, Parepare, NB 91335",Tebingtinggi,Maluku Utara,00084,+62-0192-370-5264,1990-12-22,Laki-laki,Nonaktif
+275,Ir. Malika Yulianti,"Jl. Otto Iskandardinata No. 14, Tebingtinggi, BT 40142",Denpasar,Kepulauan Bangka Belitung,63833,+62-015-633-4915,1953-07-11,Perempuan,Aktif
+276,"Putri Yuliarti, S.Pd","Gg. Cikapayang No. 06, Bontang, Kalimantan Barat 30267",Bengkulu,Papua,92409,+62-18-139-0043,1957-02-08,Perempuan,Nonaktif
+277,Ajimin Hardiansyah,"Jl. Antapani Lama No. 3, Tasikmalaya, Kepulauan Riau 04512",Pekalongan,Jambi,79312,+62 (13) 777-8773,1948-02-01,Laki-laki,Aktif
+278,Gading Tampubolon,"Jalan Yos Sudarso No. 011, Kota Administrasi Jakarta Timur, RI 70417",Tidore Kepulauan,Kepulauan Bangka Belitung,88333,+62 (070) 241-3970,1967-08-01,Perempuan,Aktif
+279,"Yance Sihombing, M.TI.","Jl. Ir. H. Djuanda No. 7, Palopo, Kalimantan Tengah 22426",Samarinda,Kalimantan Barat,75914,+62-0648-376-9174,1975-12-20,Laki-laki,Nonaktif
+280,"Caket Wibisono, M.M.","Gang R.E Martadinata No. 6, Balikpapan, BB 38018",Ambon,Kalimantan Barat,89814,+62 (648) 036 2636,1970-07-03,Laki-laki,Nonaktif
+281,"Sutan Umay Anggraini, S.Kom","Gg. Tubagus Ismail No. 2, Batam, Sulawesi Tenggara 54816",Purwokerto,Maluku,31094,(0037) 747-1615,1990-08-14,Laki-laki,Aktif
+282,Sutan Empluk Sirait,"Jalan Astana Anyar No. 1, Solok, SU 59974",Bitung,Bengkulu,44455,+62 (023) 450-4857,1947-05-04,Laki-laki,Aktif
+283,Dt. Edison Hidayat,"Jl. Bangka Raya No. 114, Bandar Lampung, Sumatera Selatan 49300",Madiun,Jambi,38882,+62 (851) 239 8000,1995-01-20,Perempuan,Aktif
+284,Gangsa Purwanti,"Jalan Cempaka No. 756, Pekanbaru, Kepulauan Bangka Belitung 65529",Payakumbuh,Jawa Timur,30690,+62 (784) 909-7973,1979-12-26,Perempuan,Aktif
+285,"Hani Wibowo, M.Ak","Jl. Ciwastra No. 1, Surakarta, BA 47441",Kendari,Papua,45540,(0796) 939-0996,1964-12-25,Laki-laki,Nonaktif
+286,Paulin Wibisono,"Jalan K.H. Wahid Hasyim No. 031, Gorontalo, Nusa Tenggara Timur 52230",Pontianak,Kalimantan Barat,15180,+62 (02) 273-2828,1982-04-12,Perempuan,Aktif
+287,"Eva Haryanto, S.Sos","Jl. Pasteur No. 574, Kupang, JK 27887",Kediri,DI Yogyakarta,34518,+62 (0576) 400 9933,2004-02-22,Perempuan,Aktif
+288,Praba Mustofa,"Gang Astana Anyar No. 818, Bogor, Jambi 01794",Cilegon,DI Yogyakarta,00190,(0583) 528 0883,1992-06-17,Laki-laki,Nonaktif
+289,Puspa Hassanah,"Jalan Cikapayang No. 6, Banjar, JI 50346",Banda Aceh,Lampung,61921,+62 (38) 937-4723,1972-06-01,Perempuan,Aktif
+290,Hartana Anggriawan,"Gang Rumah Sakit No. 84, Mataram, BB 09340",Sukabumi,Sulawesi Barat,86938,+62 (0466) 378-8916,1975-06-30,Laki-laki,Aktif
+291,"Drs. Ella Yulianti, M.Kom.","Gg. Kiaracondong No. 5, Prabumulih, MU 02098",Malang,Bali,12319,089 693 7236,1988-09-16,Perempuan,Nonaktif
+292,Jaiman Wastuti,"Jalan Laswi No. 7, Tanjungpinang, BB 51267",Cirebon,Sulawesi Tenggara,60010,+62 (697) 078-4431,1991-01-30,Perempuan,Aktif
+293,Gina Permata,"Gg. Yos Sudarso No. 67, Bogor, SB 28140",Banjar,Sulawesi Barat,57522,+62 (0796) 472 4902,1995-01-15,Laki-laki,Aktif
+294,Kardi Prayoga,"Jl. Suniaraja No. 4, Palangkaraya, NB 81673",Sawahlunto,Kalimantan Selatan,54910,+62-037-567-9292,1964-05-25,Perempuan,Nonaktif
+295,"Nalar Marbun, S.H.","Gg. Sadang Serang No. 397, Solok, SU 06870",Kota Administrasi Jakarta Pusat,Kalimantan Timur,52214,(0991) 379-4319,1973-03-23,Laki-laki,Aktif
+296,"Waluyo Padmasari, S.Farm","Gg. Erlangga No. 387, Tangerang, KB 08482",Prabumulih,Kalimantan Tengah,21580,+62 (862) 181-9562,1984-12-06,Laki-laki,Aktif
+297,Drs. Jagapati Maryadi,"Jalan Jakarta No. 924, Meulaboh, Riau 84265",Yogyakarta,Kalimantan Timur,10985,+62-71-406-6253,1955-01-06,Laki-laki,Nonaktif
+298,Ani Prasasta,"Gang Merdeka No. 905, Jambi, Kepulauan Riau 04984",Dumai,Banten,87735,+62-98-243-4460,1998-05-02,Laki-laki,Nonaktif
+299,"Wardaya Aryani, M.M.","Jalan Cikutra Barat No. 3, Balikpapan, Jawa Barat 25101",Madiun,Kalimantan Tengah,25104,+62-38-236-9484,1993-05-20,Perempuan,Nonaktif
+300,"Dwi Pudjiastuti, S.E.","Jl. Gedebage Selatan No. 47, Pekalongan, RI 70859",Sibolga,Bali,85463,(0665) 257 8825,1997-11-19,Perempuan,Aktif
+301,Taufik Siregar,"Jl. Cempaka No. 659, Lubuklinggau, Aceh 40825",Malang,Jawa Barat,18364,(023) 411-0456,1957-09-26,Laki-laki,Nonaktif
+302,Jaga Oktaviani,"Jl. M.T Haryono No. 73, Semarang, Papua 97573",Tangerang Selatan,Jambi,71483,081 858 8173,1985-12-13,Laki-laki,Aktif
+303,Wani Uwais,"Gang Tubagus Ismail No. 681, Serang, Papua Barat 96640",Surakarta,Papua,88769,+62 (057) 623-7788,2004-06-11,Laki-laki,Aktif
+304,Mala Tarihoran,"Jalan Dr. Djunjunan No. 81, Probolinggo, Sulawesi Selatan 05430",Palu,Nusa Tenggara Barat,21713,+62 (425) 256 4546,1988-02-26,Laki-laki,Nonaktif
+305,Genta Sihotang,"Gang Kiaracondong No. 881, Pekanbaru, Sulawesi Utara 51286",Tarakan,Jawa Barat,60760,+62-0664-918-9276,1995-05-13,Perempuan,Nonaktif
+306,Dr. Adika Gunarto,"Gg. Rajawali Barat No. 1, Tebingtinggi, Kalimantan Barat 20925",Payakumbuh,Papua Barat,55579,+62 (18) 739-3809,2001-12-29,Laki-laki,Nonaktif
+307,dr. Lukman Wacana,"Gg. Cikapayang No. 114, Kendari, Jawa Barat 07441",Tual,Riau,67568,+62 (049) 772 6709,1968-02-01,Laki-laki,Nonaktif
+308,Hardana Halimah,"Jl. Ciumbuleuit No. 5, Solok, Sumatera Barat 19588",Bogor,Jawa Timur,83462,080 477 2349,1970-10-20,Perempuan,Nonaktif
+309,Tasdik Haryanti,"Jl. Soekarno Hatta No. 40, Pangkalpinang, Papua Barat 84495",Manado,Lampung,55195,0889929467,1988-10-25,Perempuan,Aktif
+310,Asmuni Widodo,"Gang Rajiman No. 296, Parepare, KS 23503",Mataram,Maluku,63814,+62 (956) 213 4913,1968-12-22,Laki-laki,Nonaktif
+311,"Hj. Citra Yolanda, S.Farm","Jalan H.J Maemunah No. 0, Palu, Jambi 72311",Tarakan,Gorontalo,33517,+62 (0673) 560-9969,1967-12-21,Laki-laki,Nonaktif
+312,"Hafshah Mandasari, S.I.Kom","Jalan Kutisari Selatan No. 10, Palopo, Gorontalo 56377",Kupang,Banten,51485,+62 (130) 991 7257,1985-04-30,Laki-laki,Nonaktif
+313,Cut Mutia Sitorus,"Jl. M.T Haryono No. 348, Sibolga, KT 82055",Kota Administrasi Jakarta Barat,Kalimantan Selatan,54245,+62 (619) 967-0218,1998-08-08,Perempuan,Nonaktif
+314,"Dt. Cakrawangsa Habibi, S.Pt","Gg. Rumah Sakit No. 4, Lhokseumawe, YO 76835",Kota Administrasi Jakarta Timur,Jambi,78569,(094) 747-2095,2003-05-17,Laki-laki,Nonaktif
+315,"Gadang Januar, S.Sos","Gg. Kiaracondong No. 3, Bima, LA 50571",Kota Administrasi Jakarta Utara,Sumatera Barat,92183,(063) 745-0401,1981-04-25,Laki-laki,Nonaktif
+316,"Lala Marpaung, S.H.","Jl. Rumah Sakit No. 13, Banjarmasin, SU 69405",Sungai Penuh,Jawa Timur,61277,+62 (0854) 324-8289,1986-06-18,Perempuan,Aktif
+317,"Cahyadi Natsir, S.IP","Gg. Cikapayang No. 0, Tangerang, YO 31474",Bengkulu,Nusa Tenggara Timur,01106,(096) 419-3485,1961-09-16,Perempuan,Nonaktif
+318,Chandra Prakasa,"Jalan Kutai No. 13, Metro, Sulawesi Utara 51577",Kota Administrasi Jakarta Timur,DKI Jakarta,83292,+62-30-793-8632,1972-01-23,Perempuan,Nonaktif
+319,T. Praba Hartati,"Gang Soekarno Hatta No. 9, Sorong, KS 73140",Ambon,Sulawesi Utara,95196,+62-007-204-2088,1993-07-07,Perempuan,Aktif
+320,Asmadi Tarihoran,"Jl. Wonoayu No. 9, Tegal, NT 52390",Tanjungpinang,DKI Jakarta,01067,(0032) 643 2182,1953-07-18,Perempuan,Aktif
+321,Yance Marpaung,"Gang Cempaka No. 2, Banjarmasin, RI 06504",Tasikmalaya,Maluku Utara,29305,(0856) 515-2728,1999-07-16,Perempuan,Aktif
+322,"Cecep Yuliarti, S.I.Kom","Gg. Kebonjati No. 826, Tasikmalaya, Sulawesi Tengah 64968",Surakarta,Lampung,14475,(0016) 297 4175,1973-10-08,Laki-laki,Aktif
+323,Bakiono Rajasa,"Jalan K.H. Wahid Hasyim No. 46, Metro, BT 52596",Batu,Nusa Tenggara Barat,87296,+62 (926) 867 9106,1991-06-19,Perempuan,Nonaktif
+324,Agnes Hastuti,"Gang Kutisari Selatan No. 34, Banjarbaru, Papua 91376",Banjarbaru,DI Yogyakarta,82362,0814218813,1948-05-20,Perempuan,Aktif
+325,"Dr. Cengkal Firmansyah, M.Farm","Gg. H.J Maemunah No. 22, Payakumbuh, MA 46294",Langsa,Jambi,32526,+62 (0080) 622-6390,1956-05-23,Laki-laki,Aktif
+326,"R. Novi Mandasari, S.Pd","Jalan Kutai No. 8, Pangkalpinang, Sumatera Selatan 43343",Bengkulu,Kalimantan Selatan,26119,+62-23-432-3444,2003-08-07,Perempuan,Aktif
+327,"Maya Prasetya, S.Farm","Gang Cikutra Timur No. 291, Gorontalo, DI Yogyakarta 00758",Meulaboh,Sumatera Barat,19495,+62 (0298) 708 1980,1979-07-07,Perempuan,Nonaktif
+328,R. Jaswadi Laksmiwati,"Gg. Otto Iskandardinata No. 851, Subulussalam, SU 90852",Dumai,Kalimantan Tengah,82042,+62-30-296-9289,1963-11-10,Perempuan,Aktif
+329,"KH. Lasmanto Handayani, S.Gz","Jalan Waringin No. 7, Bitung, Papua Barat 38763",Tidore Kepulauan,Jawa Tengah,63706,+62-087-766-7746,1991-01-05,Perempuan,Aktif
+330,"R.M. Jefri Mardhiyah, S.I.Kom","Gg. PHH. Mustofa No. 214, Palangkaraya, Lampung 08006",Tanjungbalai,Kalimantan Timur,83964,+62-001-767-2702,1965-09-15,Perempuan,Nonaktif
+331,Dr. Vivi Prasasta,"Jl. M.H Thamrin No. 019, Probolinggo, MA 49096",Tangerang,Kalimantan Utara,18333,+62-83-195-0421,1987-09-13,Laki-laki,Aktif
+332,Tgk. Ayu Haryanti,"Gang Surapati No. 040, Bitung, Jambi 72453",Bengkulu,Lampung,51858,+62 (032) 934-4892,1964-07-27,Laki-laki,Aktif
+333,"Prabu Kusmawati, S.Ked","Gg. Ir. H. Djuanda No. 6, Kota Administrasi Jakarta Utara, Kalimantan Selatan 92125",Malang,Sumatera Selatan,80897,(0200) 151-0550,2001-01-21,Perempuan,Aktif
+334,Eva Prasetya,"Gg. Rajiman No. 652, Pekalongan, GO 87408",Palu,Bengkulu,68871,+62 (0472) 421 1026,1984-01-18,Laki-laki,Nonaktif
+335,Yuliana Hakim,"Jalan Moch. Ramdan No. 33, Bontang, SS 45849",Jambi,Jambi,05151,080 578 7928,1945-04-24,Laki-laki,Nonaktif
+336,Mulya Hutagalung,"Gang Gardujati No. 133, Mataram, SU 84310",Surakarta,Kepulauan Bangka Belitung,95861,086 908 8453,1953-01-09,Laki-laki,Aktif
+337,"Sutan Parman Sihombing, S.E.","Jalan Peta No. 558, Cirebon, Kalimantan Selatan 38531",Tangerang Selatan,Bali,95332,+62 (401) 589-3002,1997-01-30,Perempuan,Nonaktif
+338,"Bakda Prabowo, S.E.","Jl. Jayawijaya No. 454, Jayapura, MA 50851",Solok,Kepulauan Riau,94123,+62 (28) 303-3532,1974-10-23,Laki-laki,Aktif
+339,Citra Anggriawan,"Jl. Abdul Muis No. 10, Palangkaraya, Aceh 55615",Ternate,Jawa Tengah,48774,+62 (102) 095-6511,1958-03-25,Laki-laki,Nonaktif
+340,"Intan Napitupulu, S.Pd","Gg. Laswi No. 3, Probolinggo, SR 56582",Tangerang Selatan,Riau,88463,+62 (0770) 492 1429,1969-04-21,Perempuan,Nonaktif
+341,Paulin Santoso,"Gang Ciumbuleuit No. 824, Palu, Papua Barat 71867",Lhokseumawe,Kepulauan Bangka Belitung,66414,(081) 993-3690,1956-04-26,Laki-laki,Nonaktif
+342,"Vino Situmorang, S.Psi","Jl. KH Amin Jasuta No. 2, Kota Administrasi Jakarta Utara, Papua 78775",Payakumbuh,Sulawesi Tengah,27218,0862018646,1960-06-13,Laki-laki,Aktif
+343,Zalindra Mardhiyah,"Jl. Yos Sudarso No. 356, Blitar, Gorontalo 57332",Bekasi,DI Yogyakarta,49032,+62-0160-161-9515,1971-05-21,Laki-laki,Aktif
+344,Cinta Suwarno,"Gg. Ahmad Dahlan No. 951, Pontianak, SN 37160",Sawahlunto,Maluku,30884,(096) 653-4942,2000-08-02,Perempuan,Nonaktif
+345,Tirta Hutasoit,"Gg. Ronggowarsito No. 7, Bandung, SG 16655",Lubuklinggau,Nusa Tenggara Timur,36322,+62 (064) 135-4192,1980-12-01,Perempuan,Aktif
+346,Kasusra Dongoran,"Gg. Cihampelas No. 76, Serang, Sumatera Selatan 95030",Bogor,Lampung,74308,+62 (485) 279 2493,1961-10-06,Laki-laki,Aktif
+347,Yulia Uyainah,"Gang Siliwangi No. 760, Pekalongan, SG 47231",Cirebon,Bengkulu,17553,+62-118-377-5637,1966-04-20,Laki-laki,Nonaktif
+348,Shakila Wijayanti,"Jalan Kapten Muslihat No. 9, Tebingtinggi, Banten 19973",Samarinda,Gorontalo,70369,+62 (0236) 638-8717,1968-03-29,Perempuan,Aktif
+349,"Faizah Prastuti, S.H.","Gg. H.J Maemunah No. 20, Magelang, GO 58902",Cirebon,Jawa Timur,65619,+62 (47) 927-1333,2005-01-06,Perempuan,Nonaktif
+350,"Setya Halimah, S.E.","Gg. Jakarta No. 878, Surakarta, Sumatera Utara 50072",Pontianak,Sumatera Barat,17615,+62 (40) 495 9974,1951-08-05,Laki-laki,Aktif
+351,Hendra Wastuti,"Gg. Bangka Raya No. 2, Tangerang Selatan, Sulawesi Utara 44847",Bandung,Jawa Timur,13250,+62 (020) 793 9375,1975-07-27,Perempuan,Nonaktif
+352,Malik Sinaga,"Jalan Stasiun Wonokromo No. 29, Batam, Jawa Tengah 66962",Tanjungpinang,Nusa Tenggara Timur,37345,+62 (043) 205-3657,1984-06-07,Perempuan,Aktif
+353,"R. Harimurti Napitupulu, M.M.","Jalan Veteran No. 8, Probolinggo, Sulawesi Utara 98028",Bogor,Sulawesi Utara,56086,0885510459,1961-05-29,Perempuan,Nonaktif
+354,Alambana Nuraini,"Gg. Gardujati No. 9, Metro, Lampung 81431",Banjar,Gorontalo,29055,+62 (0668) 502 2747,1997-11-15,Laki-laki,Aktif
+355,R.A. Syahrini Winarno,"Jl. BKR No. 60, Blitar, JI 62215",Pagaralam,Jawa Tengah,66069,(066) 896 9954,1961-08-18,Laki-laki,Aktif
+356,Kenari Utama,"Gang Tebet Barat Dalam No. 343, Kota Administrasi Jakarta Barat, DKI Jakarta 21274",Kediri,Nusa Tenggara Timur,69058,(0329) 586 7512,1984-02-27,Perempuan,Aktif
+357,Wirda Hariyah,"Gg. Kutai No. 89, Tomohon, BT 01646",Bukittinggi,Jawa Barat,03042,+62-403-770-2520,1954-09-24,Laki-laki,Aktif
+358,Kayla Tarihoran,"Gg. Lembong No. 031, Singkawang, Lampung 96933",Sungai Penuh,Jawa Tengah,90639,+62 (037) 177-5990,2005-09-29,Laki-laki,Nonaktif
+359,"H. Bagus Pangestu, M.Farm","Gg. Gegerkalong Hilir No. 4, Sawahlunto, Bengkulu 40122",Solok,Gorontalo,86331,+62 (072) 272 7960,1956-05-25,Laki-laki,Aktif
+360,Bakidin Gunawan,"Gang Tebet Barat Dalam No. 41, Tebingtinggi, Jawa Tengah 33810",Tegal,Kalimantan Selatan,08578,081 230 6273,1989-10-14,Perempuan,Nonaktif
+361,Hamima Pradipta,"Jalan Ronggowarsito No. 683, Tual, BA 44119",Kota Administrasi Jakarta Timur,Sulawesi Tengah,76732,+62 (317) 634-8074,1948-03-19,Perempuan,Aktif
+362,Irma Hutagalung,"Jl. Astana Anyar No. 6, Jayapura, Lampung 14272",Pontianak,Jawa Tengah,75169,+62-0499-636-7187,2003-05-19,Perempuan,Aktif
+363,Darmanto Santoso,"Jl. Cikapayang No. 056, Tasikmalaya, Kalimantan Timur 19853",Pasuruan,DI Yogyakarta,98930,(0804) 302 6982,1985-04-11,Perempuan,Aktif
+364,"H. Kalim Januar, M.Ak","Jalan Wonoayu No. 6, Semarang, KB 14293",Padang,Kalimantan Timur,73930,+62-830-034-0599,1947-08-05,Perempuan,Nonaktif
+365,Jagaraga Namaga,"Gg. Dr. Djunjunan No. 7, Sawahlunto, Jambi 81805",Magelang,Kalimantan Barat,69383,(0683) 424-0633,1973-07-20,Perempuan,Aktif
+366,Ika Ardianto,"Gang H.J Maemunah No. 3, Tangerang, KB 53598",Sukabumi,Sumatera Barat,22315,(0981) 475 4166,2004-10-13,Laki-laki,Aktif
+367,Irwan Handayani,"Jalan Soekarno Hatta No. 81, Banjar, Nusa Tenggara Timur 86436",Tanjungpinang,Sumatera Barat,33540,081 211 8750,1960-10-04,Laki-laki,Nonaktif
+368,"Oliva Prasetya, S.Ked","Gg. Moch. Ramdan No. 45, Solok, Jawa Tengah 25952",Depok,Sulawesi Utara,07537,+62 (247) 976 4062,1993-01-22,Perempuan,Nonaktif
+369,Banawi Siregar,"Jl. Antapani Lama No. 82, Ambon, KT 42057",Pontianak,Sumatera Utara,48601,(084) 622 0582,1952-03-04,Perempuan,Aktif
+370,Kani Saefullah,"Gang Jend. A. Yani No. 9, Bandung, Kalimantan Selatan 70938",Batam,Sulawesi Utara,90963,+62 (0203) 005-8881,1984-04-02,Perempuan,Aktif
+371,Irnanto Prasetyo,"Gang Otto Iskandardinata No. 6, Purwokerto, Kepulauan Bangka Belitung 87634",Bandar Lampung,Banten,14239,(096) 293-1040,1972-11-14,Perempuan,Aktif
+372,dr. Satya Saptono,"Jl. Erlangga No. 485, Cimahi, DKI Jakarta 61489",Ambon,Kalimantan Utara,43143,+62 (0028) 101-0882,1991-05-14,Perempuan,Nonaktif
+373,Kezia Zulaika,"Gg. Yos Sudarso No. 456, Pariaman, Kepulauan Bangka Belitung 30014",Dumai,DKI Jakarta,39276,0888088568,2001-03-16,Perempuan,Nonaktif
+374,"Vivi Zulkarnain, S.IP","Gg. Moch. Ramdan No. 6, Gorontalo, SB 44135",Bandar Lampung,Sulawesi Utara,20772,+62-520-798-3926,2006-03-03,Laki-laki,Aktif
+375,Karimah Anggraini,"Gang Kapten Muslihat No. 0, Sukabumi, Gorontalo 61935",Padang Sidempuan,DI Yogyakarta,81924,(0163) 310 3998,2003-08-03,Laki-laki,Aktif
+376,"Oliva Anggraini, M.TI.","Jl. M.H Thamrin No. 038, Depok, ST 85913",Palangkaraya,Kalimantan Timur,65633,+62-0457-858-6105,1989-05-27,Laki-laki,Nonaktif
+377,Wardaya Pranowo,"Gg. Jakarta No. 5, Lubuklinggau, Aceh 95049",Magelang,Nusa Tenggara Timur,87970,089 256 5097,1962-09-30,Laki-laki,Nonaktif
+378,Shakila Utami,"Jalan Bangka Raya No. 81, Bima, Sulawesi Barat 08899",Kota Administrasi Jakarta Timur,Nusa Tenggara Barat,20113,+62 (83) 830-0859,1996-01-25,Laki-laki,Nonaktif
+379,Laksana Thamrin,"Gang Asia Afrika No. 1, Banjar, Jawa Tengah 00257",Cirebon,Kalimantan Tengah,59360,+62-30-017-6037,1991-11-22,Perempuan,Nonaktif
+380,Hasta Farida,"Jl. Suryakencana No. 060, Pematangsiantar, Kalimantan Utara 69293",Banjarmasin,Kepulauan Bangka Belitung,04986,+62 (087) 250-1084,1992-11-01,Laki-laki,Aktif
+381,Utama Sirait,"Jl. Jamika No. 6, Payakumbuh, Papua 65619",Binjai,Bali,72133,+62 (0975) 851 7171,1980-05-08,Perempuan,Nonaktif
+382,Darsirah Nashiruddin,"Jalan Rajawali Barat No. 4, Tual, BA 94366",Pontianak,Banten,86375,+62 (017) 588 5824,1946-03-28,Perempuan,Aktif
+383,Zaenab Rahimah,"Jl. Jayawijaya No. 41, Tomohon, SB 96013",Padang,Nusa Tenggara Timur,45866,+62 (497) 051 0447,2006-05-03,Perempuan,Nonaktif
+384,"drg. Diana Halim, M.Farm","Gg. Yos Sudarso No. 61, Kota Administrasi Jakarta Pusat, Papua 03054",Semarang,Riau,59269,(060) 884 2853,1992-10-11,Perempuan,Aktif
+385,"Sakti Zulaika, S.E.I","Jalan Merdeka No. 4, Pekalongan, BT 88855",Bau-Bau,Bengkulu,95920,+62 (79) 678 7812,1987-03-29,Perempuan,Aktif
+386,Safina Hariyah,"Gg. Pasir Koja No. 81, Palangkaraya, DI Yogyakarta 68852",Sabang,Kalimantan Selatan,25009,+62-0564-343-0747,1965-10-01,Laki-laki,Nonaktif
+387,Kawaca Lazuardi,"Jl. Jakarta No. 672, Jambi, JA 89496",Bitung,Maluku,58860,(0335) 790 8346,2005-04-06,Perempuan,Nonaktif
+388,Laras Wijayanti,"Jalan Bangka Raya No. 9, Banjarbaru, Sulawesi Utara 51679",Bekasi,Sulawesi Tengah,82822,+62-90-676-5210,1993-12-24,Laki-laki,Nonaktif
+389,dr. Elvina Halimah,"Gang Asia Afrika No. 6, Bengkulu, Jawa Timur 25792",Banjarmasin,Maluku Utara,36146,+62 (28) 062 9401,1952-07-13,Perempuan,Nonaktif
+390,Dt. Dodo Agustina,"Gang Wonoayu No. 112, Bima, Aceh 28988",Kupang,Kalimantan Tengah,90160,(0717) 790 2617,1972-01-13,Laki-laki,Nonaktif
+391,Hamzah Pranowo,"Gang K.H. Wahid Hasyim No. 7, Sukabumi, Banten 15593",Medan,Kalimantan Selatan,95697,+62 (0410) 889 8507,1997-03-17,Perempuan,Aktif
+392,R.M. Gatot Latupono,"Gang Setiabudhi No. 136, Bengkulu, Jawa Tengah 02016",Kota Administrasi Jakarta Barat,DI Yogyakarta,15030,+62-416-734-5838,1990-01-27,Laki-laki,Nonaktif
+393,"Puti Zahra Iswahyudi, S.Kom","Gang Cikutra Timur No. 1, Tomohon, Bengkulu 97347",Semarang,Jambi,57983,+62 (025) 586-1769,1984-08-22,Laki-laki,Nonaktif
+394,"Himawan Anggraini, S.E.I","Jl. KH Amin Jasuta No. 76, Tebingtinggi, Aceh 30022",Banda Aceh,Lampung,53794,+62 (002) 750 1395,1953-09-18,Perempuan,Aktif
+395,Patricia Damanik,"Jl. Siliwangi No. 76, Balikpapan, Jambi 49512",Sawahlunto,Papua Barat,11358,(074) 115 2117,1979-02-19,Perempuan,Aktif
+396,Drs. Anastasia Mahendra,"Jalan Raya Setiabudhi No. 319, Tasikmalaya, ST 41153",Pekalongan,Kalimantan Timur,19737,083 949 1466,1995-07-10,Laki-laki,Aktif
+397,"Dr. Dadi Salahudin, S.Psi","Jalan Indragiri No. 11, Pasuruan, Kalimantan Utara 50939",Pangkalpinang,Maluku,43761,+62-031-882-4356,1996-12-24,Perempuan,Aktif
+398,KH. Karna Melani,"Jl. Raya Setiabudhi No. 73, Cilegon, BA 96240",Ambon,Papua,36876,(001) 239-8163,1993-12-24,Laki-laki,Nonaktif
+399,Adikara Haryanti,"Jl. KH Amin Jasuta No. 44, Blitar, Riau 03758",Kota Administrasi Jakarta Barat,Sulawesi Selatan,61439,+62 (84) 015-0120,1999-07-15,Perempuan,Aktif
+400,Usyi Haryanti,"Gg. Gedebage Selatan No. 0, Yogyakarta, JA 62817",Tanjungbalai,Banten,18599,+62 (006) 632-3782,1981-08-29,Laki-laki,Nonaktif
